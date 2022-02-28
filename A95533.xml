@@ -1,0 +1,1813 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Crop-eare curried, or, Tom Nash his ghost, declaring the pruining of Prinnes two last parricidicall pamphlets, being 92 sheets in quarto, wherein the one of them he stretch'd the soveraigne power of Parliaments; in the other, his new-found way of opening the counterfeit Great Seale. Wherein by a short survey and ani-mad-versions of some of his falsities, fooleries, non-sense, blasphemies, forreigne and domesticke, uncivill, civill treasons, seditions, incitations, and precontrivements, in mustering, rallying, training and leading forth into publique so many ensignes of examples of old reviv'd rebells, or new devised chimeraes. With a strange prophecy, reported to be Merlins, or Nimshag's the Gymnosophist, and (by some authours) it is said to be the famous witch of Endor's. Runton, pollimunton plumpizminoi papperphandico. / By John Taylor.</title>
+            <title>Tom Nash his ghost.</title>
+            <author>Taylor, John, 1580-1653.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 108 KB of XML-encoded text transcribed from 26 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95533</idno>
+            <idno type="STC">Wing T446</idno>
+            <idno type="STC">ESTC R212364</idno>
+            <idno type="EEBO-CITATION">99870989</idno>
+            <idno type="PROQUEST">99870989</idno>
+            <idno type="VID">123387</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95533)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 123387)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 45:E269[24])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Crop-eare curried, or, Tom Nash his ghost, declaring the pruining of Prinnes two last parricidicall pamphlets, being 92 sheets in quarto, wherein the one of them he stretch'd the soveraigne power of Parliaments; in the other, his new-found way of opening the counterfeit Great Seale. Wherein by a short survey and ani-mad-versions of some of his falsities, fooleries, non-sense, blasphemies, forreigne and domesticke, uncivill, civill treasons, seditions, incitations, and precontrivements, in mustering, rallying, training and leading forth into publique so many ensignes of examples of old reviv'd rebells, or new devised chimeraes. With a strange prophecy, reported to be Merlins, or Nimshag's the Gymnosophist, and (by some authours) it is said to be the famous witch of Endor's. Runton, pollimunton plumpizminoi papperphandico. / By John Taylor.</title>
+                  <title>Tom Nash his ghost.</title>
+                  <author>Taylor, John, 1580-1653.</author>
+               </titleStmt>
+               <extent>[2], 40 p.   </extent>
+               <publicationStmt>
+                  <publisher>L. Lichfield],</publisher>
+                  <pubPlace>[Oxford :</pubPlace>
+                  <date>Printed in the year, 1644. [i.e. 1645]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication and printer's name from Wing.</note>
+                  <note>Wing has publication year 1644[5]; Thomason catalogue lists under 1645.</note>
+                  <note>A reply to William Prynne's "The soveraigne power of parliaments and kingdomes" and "The opening of the great seale of England".</note>
+                  <note>Annotation on Thomason copy: "feb: 17th. Oxon".</note>
+                  <note>A reissue of John Taylor's 'Tom Nash his ghost', [London], 1643, with a cancel titlepage.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Prynne, William, 1600-1669. --  Soveraigne power of parliaments and kingdomes --  Early works to 1800.</term>
+               <term>Prynne, William, 1600-1669. --  Opening of the great seale of England --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-03</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:123387:1"/>
+            <pb facs="tcp:123387:1" rendition="simple:additions"/>
+            <p>CROP-EARE
+CURRIED,
+OR,
+<hi>TOM NASH</hi> His GHOST,
+Declaring the pruining of <hi>Prinnes</hi> two laſt
+Parricidicall Pamphlets, being 92 Sheets in <hi>Quarto,</hi>
+wherein the one of them he ſtretch'd the Soveraigne Power
+of Parliaments; in the other, his new-found way
+of opening the counterfeit GREAT SEALE. Wherein by a ſhort Survey and Ani-mad-verſions of
+ſome of his falſities, fooleries, non-ſenſe, blaſphemies, For<g ref="char:EOLhyphen"/>reigne
+and Domeſticke, uncivill, civill Treaſons, Seditions, Incita<g ref="char:EOLhyphen"/>tions,
+and precontrivements, in Muſtering, Rallying, Train<g ref="char:EOLhyphen"/>ing
+and Leading forth into Publique ſo many Enſignes of
+Examples of old reviv'd Rebells, or new deviſed
+<hi>Chimeraes.</hi> With a ſtrange Prophecy, reported to be <hi>Merlins,</hi> or <hi>Nimſhag's</hi> the
+<hi>Gymnoſophiſt,</hi> and (by ſome Authours) it is ſaid to be the
+famous Witch of <hi>ENDOR'S.</hi>
+            </p>
+            <p>
+               <hi>Runton, Pollimunton Plumpizminoi Fapperphandico.</hi>
+            </p>
+            <p>By JOHN TAYLOR.</p>
+            <p>Printed in the year, 1644.</p>
+         </div>
+         <div type="errata">
+            <pb facs="tcp:123387:2"/>
+            <head>Errata.</head>
+            <p>In <hi>pag. 8. lin. 20. for</hi> bold, <hi>reade</hi> bowld<g ref="char:punc">▪</g> 
+               <hi>lin. 25. for Penury, reade Penry,</hi> in <hi>p. 13.
+line 29. for</hi> told, <hi>reade</hi> took.</p>
+            <p>There are divers Latine words thruſt into this mine Anſwer to his peſtiferous
+Pamphlets, which words I neither underſtand, know the Authours, or thanke
+them for it, as in <hi>pag. 11. lin.</hi> 5. and in <hi>pag. 18. lin. 30, 31. Celarent &amp; Fleta, &amp;c.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:123387:2"/>
+            <head>TOM NASH
+HIS GHOST,
+OR,
+THE CURRYING OF
+CROP-EARE, &amp;c.</head>
+            <p>
+               <seg rend="decorInit">I</seg>N this Mad, Sad, Cold Winter of diſcontent.
+About the end of <hi>October</hi> laſt 1643, The
+Moone being near hir change, and obſcure in
+our Horiſon, not one Starre appearing, the skie
+(like an <hi>Ebon</hi> Canopie) muffled up the He<g ref="char:EOLhyphen"/>miſphear
+in an univerſall ſable robe of Melan<g ref="char:EOLhyphen"/>cholly
+black, ſo that darkneſſe was made a
+Maske which hid the Mournfull viſage of our
+Mother Earth; In and at ſuch a time, when nothing was waking
+or walking, but <hi>Thieves, Lovers, Carefull mindes, Owles, Batts,
+Ghoſts, Witches</hi> and <hi>Goblins &amp;c.</hi> About the Waſte or Navel of
+the night, Drowſie <hi>Somnus</hi> came ſtealing to me, and with his Lea<g ref="char:EOLhyphen"/>den
+Mace arreſted me, at the ſuite of my old Lady <hi>Nox,</hi> which Ar<g ref="char:EOLhyphen"/>reſt
+I obeyed by untying, unbuttoning, and quite undoing my ſelfe,
+and to bed; Where ſuddainly I winck'd at the faults of all the
+world, ſhutting up the two ſhop windowes of my <hi>Microcoſme,</hi> &amp;
+(like a nimble Clothworker) I preſently ſet a Nappe upon my
+Thredbare eyes. I had not layne long in this ſilent pleaſing Em<g ref="char:EOLhyphen"/>brace
+of <hi>Mounſieur Morpheus</hi> but there appeared unto me a poore
+olde ſwarty fellow, with ſtarcing haire, Neglected beard, Aſhy
+Gaſtly look, with a black Clo<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th Cloak upon his back, which hee
+had worne as thin as if it had been Searge, whereby I conceiv'd him
+<pb n="2" facs="tcp:123387:3"/>
+to be a Poet) I begun to be puzled with this ſtrange Apparition, &amp;
+ask'd him whom he was, and what his buſineſſe was with me.</p>
+            <p>Quoth he, my name is <hi>Thomas</hi> or <hi>Tom Naſhe,</hi> who when this
+Ayerie ſhadow of mine had a corporeall ſubſtance, I had a yerking,
+firking, jerking, Satiricall and Poeticall veine, <hi>Pegaſus</hi> was my Pal<g ref="char:EOLhyphen"/>frey,
+the <hi>Muſes</hi> were my Minions, <hi>Tempe, Aganipp<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, the Theſpian,
+Helliconian</hi> and <hi>Castalian</hi> Fountaines did yeeld me Diarnall and
+Nocturnall Tributary <hi>Nectar: Fame</hi> and <hi>Defame</hi> were my Vaſſalls,
+and I could make them both wait on whom I liſt, I knew <hi>Honour,</hi>
+and I <hi>Honoured</hi> it, ſpurnd at <hi>Flattery,</hi> I lov'd <hi>Truth,</hi> I deſpiſed
+Riches, yet I liv'd and dyed Rich enough to be a Poet. And ſo
+much ſhall ſuffice to tell the what I was.</p>
+            <p>Now in the next place Il'ecertifie thee whence I came, and
+what mine errend is: know this, that about the 30<hi rend="sup">th</hi> year of the
+Raigne of Renouned Queen <hi>Elizabeth,</hi> She and the Proteſtant Re<g ref="char:EOLhyphen"/>ligion
+(which She defended and Maintaind) were opoſed and troub<g ref="char:EOLhyphen"/>led
+with <hi>Heritiques, Papiſts, Schiſmatiques, Separatiſts, Browniſts,
+Annabaptiſts, Familiſts,</hi> and <hi>Atheiſts;</hi> All of theſe diſagreeing, yet
+all againſt the Church, and Government Eccleſiaſticall and Civill
+here eſtabliſhed. Amongſt thoſe innumerable <hi>Locusts</hi> that then
+were ſpewd from the Bottomleſſe Pit, there crawl'd and ſwarm'd
+over the Kingdome, a Crew of Raſcalls called <hi>Martiniſts;</hi> whoſe
+Laxative Purity did moſt ſhamefully in printed toyes, Pamphlets,
+and Lying Libells, beſquitter all <hi>England</hi> over with ſuch poynts
+of Doctrine, as was never known by Chriſt and his Apoſtles. And
+theſe <hi>Martins</hi> Intituled their Paſquills by the Impudent and ſaw<g ref="char:EOLhyphen"/>cie
+names of <hi>Martin Mar Prelate.</hi> Theſe ſcandalous Railings
+of theirs were then anſwered by as Grave, Wiſe, Learned, and
+Reverend men as <hi>England</hi> yeilded, and they were (by Scriptures,
+Fathers, Counſells, Divinity, Humanity, Learning, Wit, Wiſdome,
+Truth, Senſe, and Reaſon) Confuted; but none of theſe were avail<g ref="char:EOLhyphen"/>able,
+for like Anvills, the more knocks they had the more obdurate
+they were; inſomuch that thoſe <hi>Martins</hi> like <hi>Caterpillers</hi> encreaſed
+moſt peſtiferouſly,</p>
+            <p>I perceiving, that wiſemen could do no good with thoſe <hi>Vermin</hi>
+Began to take them in hand my ſelfe, &amp; (whetting my Wits) I put
+ſome <hi>Aquafortis</hi> and <hi>Gall</hi> into my Inckhorn, with which I wrote
+a delicate diſcourſe of <hi>Martin Mar tone, and Mar to ther</hi> and with
+<pb n="3" facs="tcp:123387:3"/>
+a meſſe of <hi>Papp<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> with a Hatch<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>,</hi> I made the Neſt of Miſchievous,
+Malevolent, Malignant <hi>Martins</hi> take their flight from hence into
+the <hi>Low Countries.</hi>
+            </p>
+            <p>But the venom of theſe Vipers was ſo diſperſt and ſcatterred in
+ſundry places of this Land, that though my <hi>Satires</hi> whip had laſh'd
+their leaders from hence, yet the Impoſtumated Matter of theirs
+was never thorough Ripe till now of late<g ref="char:punc">▪</g> for now thou ſee'ſt they
+have Perfited their helliſh plots, their Pennes and Pulpits, have
+(under the pretence and ſhew of <hi>Religion</hi> and <hi>Law,</hi>) almoſt over<g ref="char:EOLhyphen"/>thrown
+both.</p>
+            <p>Wherefore, my well-wiſhing and beloved friend <hi>Iohn Taylor,</hi>
+my Ghoſt hath made a ſhort ſcape from <hi>Eliſium,</hi> to ſtirre thee up
+to Nip, and Whip, ſtrip and Snip, theſe Matchleſse, Headleſse,
+Heedleſse Rebells, who are devided into three parts, <hi>Burtonians,
+Prinnians,</hi> and <hi>Baſtwickians;</hi> for ti's certaine that from <hi>Burtons</hi>
+Divillity, <hi>Prinnes</hi> Illegall Law, and <hi>Baſtwicks</hi> poyſoned Pills and
+Pamphlets, the moſt part of all the Horrid and Barbarous Impieties
+and Cruelties have proceeded, wherewith this Afflicted Kingdom
+is moſt miſerably oppreſt and over run.</p>
+            <p>Concerning <hi>William Prinne,</hi> he hath lately writ two damnable
+and deteſtable Books, ſtuft with as much Hipocryſie Villany, Rebel<g ref="char:EOLhyphen"/>lion
+and Treaſon as the Malice of the Divell, and his own miſchie<g ref="char:EOLhyphen"/>vous
+braine could invent. The one is partly Titled THE SOVE<g ref="char:EOLhyphen"/>RAIGNE
+POWER OF PARLIAMENTS. The other,
+is called THE OPENING OF THE GREAT SEALE.
+<hi>Jack,</hi> (kind <hi>Jack</hi>) I Conjure thee to take this Railing fellow in hand,
+look upon his wicked workes, veiw his villanies, ſqueese the Quin<g ref="char:EOLhyphen"/>teſſence
+of his eighty and odde ſheets of printed Confuſion into 12
+leaves in Quarto, that the abhominable charge of his worthleſſe
+high priz'd Volumes, (at ten or twelve ſhillings) may by thee be
+Epitomized<g ref="char:punc">▪</g> Abreviated, and Curtall'd in Bulk, and price to ſix-pence
+a peece. Feare not, go on Boldly, I will leave my <hi>Genius</hi>
+with thee, which ſhall Inſpire thee, and infuſe into thee ſuch Ter<g ref="char:EOLhyphen"/>rible,
+Torturing, Tormenting, Termagant flames and flaſhes as ſhall
+Firk, Ferret, and force <hi>Prinne</hi> and his partners run quite out of that
+little wit that is left them<g ref="char:punc">▪</g> and deſperatly ſave the Hangman a La<g ref="char:EOLhyphen"/>bour,
+farewell.</p>
+            <p>This being ſaid, the Ghoſt vaniſhed, whereat I ſtarted up, put
+<pb n="4" facs="tcp:123387:4"/>
+on my cloathes, fell to reading the aforeſaid bookes at large, &amp; with
+my pen made this ſhort following abſtract.</p>
+            <p>Roome for an old empty Pageant, drawne by the <hi>Trojan</hi> (or <hi>Grae<g ref="char:EOLhyphen"/>cian</hi>
+Horſe) or rather by <hi>Sinon,</hi> the inventer of that wodden <hi>Palfrey.</hi>
+But this Beaſt claimes his pedigree from <hi>Bucephalus,</hi> and hath had
+his eares twice Crop'd, to bring him into the Capitall Roundneſſe
+of the Faſhion, and (known to be ſo full of mettle) was mark't (leaſt
+he ſhould be ſtolne,) with two brands in the cheeks; he braggs fur<g ref="char:EOLhyphen"/>ther
+to be deſcended from <hi>Baalams</hi> Aſſe, and overdoes his Prede<g ref="char:EOLhyphen"/>ceſſor
+in Imitation, for that Aſſe did reprove but, one Prophet (for
+which he had a large Commiſſion) but this animall, (Sawcily) re<g ref="char:EOLhyphen"/>proves
+all the Prophets without Wit, Reaſon, Senſe, Order or law<g ref="char:EOLhyphen"/>full
+Commiſſion. This worthily mark't Iennet (like the <hi>Egyptian</hi>
+Aſse that carried the Goddeſse <hi>Iſis</hi>) ſo all the uſurping Major <hi>Pen<g ref="char:EOLhyphen"/>ningtons</hi>
+Magazin are incloſed in <hi>Prinnes</hi> four bookes (or parts)
+of the <hi>Soveraigne power of Parliaments,</hi> Ordered to be printed by
+the Fornicating <hi>Browniſt</hi> M. <hi>Iohn White,</hi> and confirm'd by the
+New broad Scale, (lately opened by himſelfe) And although three
+of thoſe partes of his foure (being eighty ſix ſheets) printed cloſe
+in large Quarto; hath been ſoberly, ſolidly, and fully anſwered in
+leſse then one leafe in Quarto, by too worthy a writer for him
+to Reply upon, yet he ſtill Brayes alowd, (like <hi>Apulcius</hi> his Aſse)
+cries out, no man dares or can anſwer him, becauſe it is done by
+Weight and not by Number, like a Scold at <hi>Billinſgate,</hi> is ready to
+cry for anger, becauſe no body will ſcold with him; wherefore, to
+ſalve or plaiſter the poore ſcorned wranglers credit, as alſo to ſave
+his longing for this once, who deſires to ſee his own picture by Re<g ref="char:EOLhyphen"/>flection
+in a looking Glaſse, Sirrah Boy, bring me hither my pen<g ref="char:EOLhyphen"/>ſill,
+for I have all the foure feet of the Beaſt ſure enough in the
+Trammels, that he can doe no hurt, with Kicking, and his mouth is
+muzzled with his new Great (or Broad) Scale, that he is ſure e<g ref="char:EOLhyphen"/>nough
+for Biting, and therefore let him frisk, and wince, and bray
+as long and loud as he liſt, I will rub the Gall'd jade till he be ſen<g ref="char:EOLhyphen"/>ſible,
+and either cure him, or make him ſee that there is no way but
+one for him, and that ere long his skinne muſt come to <hi>Gregory</hi> the
+whit tayer; and to that purpoſe like a <hi>Dutch Limmer,</hi> I thus draw
+my firſt line in the juſt Simmetry; and therefore have at the fore<g ref="char:EOLhyphen"/>leg
+of the beaſt on the neare ſide, as it is delineated in his firſt part
+<pb n="5" facs="tcp:123387:4"/>
+of his <hi>Soveraigne</hi> or <hi>Power of Parliaments.</hi>
+            </p>
+            <p>Firſt, Sir to ommit your Imboſt ſwolne Tiles (to your four good
+parts) which are like the Gates of <hi>Mindus,</hi> large enough for the
+whole towne to run out at. I come to the preface of your firſt part,
+wherein you ſay <hi>That ſome Members of Parliament Induced you to
+enlarge that part of your Diſcours,</hi> In this you are beleivd, for by you
+it was produc'd; by them you were Induc'd, and by the Divell you
+were ſeduced both to begin, proſecute, and finiſh the whole frame
+and form of your formleſse falſities and fooleries, beſides it is not to
+be imagined that any true Chriſtian, Proteſtant, or Loyall Subject,
+would either have induced, encouraged, approved, and rewarded
+your impious Studies and Voluminous paines taking, but only ſome
+of the ſweet Members: thus farre I allow you.</p>
+            <p>In the thirty ſecond line of the preface, you <hi>Proteſt before the
+Great Iudge of Heaven &amp; Earth, that you have wittingly maintaind
+nothing, but what your judgement and Conſcience both, Byaſſed to
+no Siniſter ends:</hi> Rub, Rub, hold Biaſse, that which followeth, will
+ſhew the Reader what your Bias'd IUDGEMENT, CONS<g ref="char:EOLhyphen"/>CIENCE,
+is. And in the ſixty firſt line he proteſts againe, <hi>That the
+effecting and reſtoring of a bleſſed Harmony of Peace and Quietneſſe,
+throughout our Kingdom, was one principall end of this his Labour.</hi>
+The end of your Labour, will certifie us the care you have in obſer<g ref="char:EOLhyphen"/>ving
+the truth of your great proteſtations. And ſo much for your
+preludium, face, or preface; Now I proceed to the firſt of your 4.
+Good parts.</p>
+            <p>On his firſt part of his <hi>Soveraigne power of Parliaments.</hi> In the
+ſecond pag. 'tis ſaid that by <hi>A Declaration in Parliament</hi> (that
+is by a Faction in Parliament) <hi>Commiſſions are granted to Papiſts a<g ref="char:EOLhyphen"/>gainſt
+Law to ſecure the King in theſe Warres.</hi> And pag. 3. <hi>that it is
+unſafe for his Maieſty to put Armes into the hands of papiſts, and
+make uſe of them to protect the Kings perſon or Crowne.</hi> The Decla<g ref="char:EOLhyphen"/>ration
+we confeſſe was out, but neither in nor out, by, or from, any
+power or Authority of a Parliament; for all the world knowes that
+a Parliament is the higheſt and moſt Supream Court, of greateſt po<g ref="char:EOLhyphen"/>wer,
+Veneration, Dignity and Authority, to which all other Courts
+muſt ſubmit, and from which Court there is no appeale on Earth.
+Furthermore a Parliament doth Conſiſt of a King, all the Peeres &amp;
+Barons of the Land, with the Knights &amp; Burgeſſes of every Coun<g ref="char:EOLhyphen"/>ty,
+<pb n="6" facs="tcp:123387:5"/>
+Burrough and Towne in the Kingdome; ſuch a Parliament hath
+Soveraigne power, whereof, and wherein the King is the Heade, &amp;
+the two Houſes of Lords &amp; Commons are the Body, which as long
+as the Head and Body are joyned, is the only higheſt and Superlative
+Court, and hath the whole Soveraigne power in it; and ſuch an ho<g ref="char:EOLhyphen"/>nourable
+high, (yea higheſt) Court and Senate was this, till ſuch
+time as ſome Factious Members, by ſuffering Clamours, Routes, diſ<g ref="char:EOLhyphen"/>loyal
+demeanours, and Tumultuous Aſſemblies and meetings,
+drave away the head to eſcape danger &amp; ſeek ſafety, whereby partes
+of the honourable and Loyalleſt Members followed, leaving behind
+them a few Factious, Ambitious, Rebellious Sectaries, who having
+no Head, or ſcarce a good limbe, doe with headleſse and heedleſse
+impudence preſume to call themſelves a Parliament. And you Sir,
+with your Inck-ſquittering Treacherous Pamphlets are the maine
+proppe and piller to uphold the ſoveraign unſavoury power of their
+Factious Conventicles. And thus have I breifly ſhewed thee what
+is, and what is not a Parliament. And therefore the Declaration a<g ref="char:EOLhyphen"/>foreſaid,
+is from the power of no Parliament, but that the King (by
+their leave) may make uſe of His Popiſh ſubjects, as the pretended
+Parliament did (without the Kings leave) of <hi>Ireiſh</hi> Rebells ſlaine
+at <hi>Worcester,</hi> and their popiſh <hi>Walloones,</hi> maintain'd to have Maſse
+at <hi>Fulham,</hi> but according to your Rule (M. P.) one muſt aske his fel<g ref="char:EOLhyphen"/>low
+if he be a theife, let you and your abetters be your own Iudges,
+&amp; hange ye all if you condemn your ſelves, the caſe is altered, when
+<hi>Ploydens</hi> Bull is in the pound. I would have thee know that a papiſt
+is a thing that would live, and hath the ſenſe to flee from danger and
+ſome wit to avoyd it, he hath alſo the skill, meanes, and courage to
+fight and defend himſelfe, and he holds it better to ſerve his King,
+under whom he hath ſecurity and ſhelter, (as long as he is Loyall)
+then to be inthral'd by you, from whom he can expect nothing but
+Ruin and deſtruction.</p>
+            <p>Concerning your long Treatiſe which you call <hi>the Treachery and
+Diſloyalty of papiſts againſt their Soveraignes.</hi> Me thinks their old
+treacheries ſhould be no preſidents for you or any man or Members
+whatſoever to be Rebells and Traytors. For as thoſe Crimes in
+them do ſeem odious to you, ſo your Villanies (tranſcending theirs)
+cannot be made Amiable by any of your Sophiſticating Legerde<g ref="char:EOLhyphen"/>maine
+Meanders. The powder Plot, I confeſse was Hells Maiſter
+<pb n="7" facs="tcp:123387:5"/>
+piece, but you have done your beſt (amongſt you) to out-do it;
+They that had a hand in it, (to the perpetuall brand and infamy of
+that Religion) did all profeſſe to be <hi>Roman</hi> Catholiques, but let im<g ref="char:EOLhyphen"/>partiall
+Truth be the Iudge, and it will be found that the Contri<g ref="char:EOLhyphen"/>vers
+and Actors in that horrid Plot, were of no Religion at all, and
+that they uſurped the name and ſtile of Chriſtians, (as you and your
+Crew do the Titles of Proteſtant and Parliament) for the chiefe of
+them had run out of faire Eſtates, by riotous feaſting, drinking,
+drabbing, gaming, and all manner of profuſe licenciouſneſſe,
+which when all was gone, and themſelves involved and precipi<g ref="char:EOLhyphen"/>tated
+into bottomleſſe Debts, then they grew melancholy deſpe<g ref="char:EOLhyphen"/>rate,
+and to raiſe their broken Fortunes upon the ruines of this mo<g ref="char:EOLhyphen"/>ther
+Kingdome that nurſed and bred them, deviſed that abhorred
+and deteſtable Plot; ſome there were of good eſtates and ſhallow
+capacities, who were ſeduced to aid with mony and meanes, by
+the perſwaſions of <hi>Garnet</hi> and others, (for ſuch a Treaſon, or
+ſcarce any other miſchiefe cannot be plotted without the brain of
+a <hi>Jeſuit,</hi> which makes very underſtanding heads conjecture that
+<hi>Prinne,</hi> and his Faction doth hold correſpondency with them in
+theſe their abhominable unparalleld Treaſons.) Never was it
+heard or read that any, that profeſſe to be Chriſtians, did con<g ref="char:EOLhyphen"/>trive
+or attempt ſo cruell, bloody, barbarous and execrable a
+Deſigne; therefore I conclude them neither Chriſtians or <hi>Roman</hi>
+Catholiques, but meere Atheiſts, Libertines, and incarnate Devils.
+But by this I may be drawn into ſome ſuſpition, that I am popiſhly
+addicted or affected; to which I anſwer, that the true Church was
+once at <hi>Rome,</hi> for Saint <hi>Paul, Rom. 1. 8. gave God thankes through
+Jeſus Chriſt for them all that their Faith was ſpoken of</hi> (in ſome
+Tranſlations) <hi>famous, or publiſhed throughout the whole world:</hi>
+that <hi>faith Rome</hi> is fallen from, and in the ſtead thereof, ſhe hath a
+Faith and Religion, ſo intermingled with humane Traditions and
+inventions of men, which is unſafe for a Chriſtian to liue and die in.
+But for all this a <hi>Proteſtant</hi> muſt not caſt away all that is uſed at
+<hi>Rome,</hi> for they have God's Word there, they have the Scriptures
+there, which though they abuſe, yet we have free liberty to uſe;
+and it is not their Religion, or ours that are Proteſtants, or any other
+who hold the Fundamentall points, grounds, and Articles of the
+Chriſtian Faith, that can be compulſively thruſt into the ſoules of
+<pb n="8" facs="tcp:123387:6"/>
+men, for an enforced Religion takes no root in the conſcience, a
+perſwaſive may, which made the Patriarch <hi>Noah, Gen.</hi> 9. 27. ſay,
+<hi>God perſwade thee Japhet to dwell in the Tents of Shem;</hi> here is a
+Prayer for God's perſwaſion, not for mans inforcing the con<g ref="char:EOLhyphen"/>ſcience.</p>
+            <p>I have been the longer about this argument concerning the Pa<g ref="char:EOLhyphen"/>piſts,
+becauſe my nimble Antagoniſts doth Cuckoo-like play upon
+the ſame tone and tune. So much in anſwer to <hi>Prinnes</hi> firſt argu<g ref="char:EOLhyphen"/>ment.</p>
+            <p>The ſecond is <hi>page 5. &amp; 7. The Papiſts have exerciſed a greater
+power over Kings than this Parliament doth;</hi> therefore this Parlia<g ref="char:EOLhyphen"/>ment
+may do what it doth. Well, confeſt, ſhake hands with the
+Pope, and be friends, we ſee theſe Round-headed Boatmen row
+the ſame way with the <hi>Romiſh</hi> Rebells, howſoever like Cut-purſes
+they ſeem to quarrell one againſt another, that they may make a fray
+in the midſt of a crowd unſpied.</p>
+            <p>The third and fourth Arguments are, <hi>page 7. &amp; 9. Some Kings
+have been forced to call Parllaments, and have been depoſed by their
+Subjects;</hi> therefore all Kings may be forced to the like, and be de<g ref="char:EOLhyphen"/>poſed
+by Parliaments. Well, bold Brother, now we begin to per<g ref="char:EOLhyphen"/>ceive
+how your judgement and conſcience is biaſſed. Why couldſt
+thou not as well juſtifie the Devill? <hi>Lucifer</hi> did rebell, therefore
+all may rebell, but I will helpe thee to a more concludent and ſigni<g ref="char:EOLhyphen"/>ficant
+Argument.</p>
+            <p>
+               <hi>Penury</hi> was tried legally at the Aſſiſes, and hanged in Queen
+<hi>Elizabeths</hi> time, for leſſe Treaſon than this, therefore <hi>Prinne</hi> ought
+to be tried legally, and hanged in King <hi>Charles</hi> his time for this
+Treaſon. Alſo in the ſeventh <hi>Page</hi> and thirteenth <hi>line</hi> he mentions
+the depoſing and death of <hi>Vortigerne,</hi> (a wicked King) to bolſter
+out Treaſons, and colour Rebellions againſt a good King; alſo how
+<hi>Sigebert</hi> King of the Weſt <hi>Saxons,</hi> was depoſed and murdered;
+and <hi>Ofred</hi> King of <hi>Northumberland</hi> likewiſe depoſed; <hi>Ethelred</hi>
+his next Succeſſour ſlain by his Subjects at <hi>Cobre,</hi> and how the
+People expulſed <hi>Bernard</hi> and <hi>Ceolwulph</hi> Kings of <hi>Mercia,</hi> and the
+like they did to <hi>Edwin</hi> King of <hi>Northumberland:</hi> theſe ſeventh and
+eighth <hi>Pages</hi> are ſufficiently ſtuffed with Treaſons of great Anti<g ref="char:EOLhyphen"/>quity,
+ſome of them a thouſand, and ſome twelve hundred yeares
+old, which were done by wicked Subjects againſt moſt wicked
+<pb n="9" facs="tcp:123387:6"/>
+Kings, ſome of them Pagans, and not any of them a good Chriſtian,
+and ſome uſurpers that came to the Regall Dignity, by murdering
+the lawfull Heires; ſo that theſe preſidents are incerted by <hi>Prinne</hi>
+out of the damnable, inveterate, impertinent malice of his heart,
+for <hi>out of the abundance of the heart the mouth ſpeaketh.</hi> And it is
+an inſcrutable Quere, what miſchiefe <hi>Prinne</hi> would not do, to do
+the King a miſchiefe.</p>
+            <p>
+               <hi>Page 5. line</hi> 39. He calls <hi>this our preſent Proteſtant Parliament.</hi>
+It is approved by lamentable experience, that the word [<hi>preſent</hi>]
+is too true, but as for the Parliament, it is paſt any good Subjects un<g ref="char:EOLhyphen"/>derſtanding
+to know where it is; it is confeſt, that it was at <hi>Weſt<g ref="char:EOLhyphen"/>minſter,</hi>
+but Rebellion hath ſcattered and ſhattered it into ſo many
+places, that upon the matter it is in no place, but of this I have
+ſpoken of before. It is alſo a tranſcendent ignorance and impu<g ref="char:EOLhyphen"/>dency
+in this fellow, to call this ſeditious Conventicle a <hi>Proteſtant</hi>
+Parliament; I pray thee, which way <hi>Proteſtant?</hi> Do they hold any
+Grounds, Maximes, or Tenets of the <hi>Proteſtant</hi> Religion? 'Tis
+moſt manifeſt that the ſix yeares Perſecution of the Proteſtants in
+the bloody Reigne of Queen <hi>Mary</hi> never deſtroyed and ruinated
+halfe ſo many Proteſtants, as thoſe <hi>Browniſticall,</hi> and <hi>Anabaptiſticall,</hi>
+bloody, tyrannicall Sectaries have done within theſe two yeares,
+for none but Proteſtants have and do ſuffer, and no Religion but
+the Proteſtants is deſpiſed, derided, diſgraced and trampled under
+foot, therefore neither Proteſtant Parliament, or Parliament, or
+Proteſtant.</p>
+            <p>
+               <hi>Now, Sir, to your fifth and ſixth Arguments, from</hi> p. 19. <hi>to 32. you
+affirme that</hi> Popiſh Parliaments, Lords and Subjects, have by force of
+Armes compelled their Kings to confirme their Liberties, &amp;c. and
+have affirmed, that when a Parliament was once met together, by
+lawfull Summons, it might not be diſſolved or diſcontinued again at
+the Kings meere pleaſure, and therefore this Parliament may do and
+defend the like.</p>
+            <p>Proceed with your Popiſh practices and poſitions, and fulfill the
+iniquity of your forefathers, yet you do not ſo politickely as you
+were wont, to let the People ſee whence you derive your pre<g ref="char:EOLhyphen"/>tended
+Authority for abuſing your preſent Prince, Take heed, leaſt
+they take up the Proverbe, <hi>We have put down one Pope and ſet up ma<g ref="char:EOLhyphen"/>ny.</hi>
+Moreover in <hi>pag. 27. line 7. It was told King Richard the Second
+<pb n="10" facs="tcp:123387:7"/>
+that if he abſented from the Parliament forty dayes, not being ſicke,
+they might by Law riſe or breake up.</hi> Though you have no more
+power to diſſolve than call a Parliament, I pray, who forbids you to
+take the benefit of that Law? who holds you but you may riſe and
+break up? It cannot be ſaid but you have <hi>riſen,</hi> (with a witneſſe)
+to ſuch an height of impiety and Rebellion, as no age or Nation
+can parallell; and for your <hi>breaking up</hi> it hath been ſuperlative, for
+there is no Law of <hi>God,</hi> or <hi>Nature,</hi> or <hi>Nations</hi> but you have <hi>broken</hi>
+up and down too; and if Treaſon, Murder, Burglary, Felony,
+were accounted any breaking of Lawes amongſt you, and that you
+ſhould all have legall Trials for thoſe Crimes, <hi>The Lord have mercy
+upon you,</hi> there are but few of you that could be ſaved by your
+Book; therefore let your factious Conventicle riſe, and go home to
+their houſes when they pleaſe; the King hath been abſent from
+them more than five times forty dayes, for it is almoſt two yeares
+ſince they drove Him from them, therefore they may riſe, and yet
+never break up any Parliament. I remember in <hi>pag. 28. line</hi> 15.
+the <hi>Cheſhire</hi> men are much beholding to Maſter <hi>Prinne</hi> for calling
+them <hi>Rude and beaſtly People,</hi> (I wiſh you would go in perſon thi<g ref="char:EOLhyphen"/>ther
+and tell them ſo) becauſe they tendred themſelves as a Guard
+for the perſon of King <hi>Richard</hi> the Second, in a time of Rebelli<g ref="char:EOLhyphen"/>on,
+for which they are honoured ever ſince with the Proverbe of
+<hi>Cheſhire chiefe of men.</hi>
+            </p>
+            <p>
+               <hi>Pag.</hi> 33. to <hi>p.</hi> 42. His Arguments are concerning <hi>the power of
+Parliaments, and that the whole Parliament is greater than the King
+alone.</hi> They are ſuch abſurd equivocations, as (although he ſtill
+followes the footſteps of his Fathers the Papiſts) yet his Brethren
+the Jeſuites would be aſhamed of ſuch kinde of arguing; and
+therefore he doth wiſely to conceale their Aſſociation; for who
+knowes not, that the Parliament, that is to ſay, the King, the Head,
+and the two Houſes, the Members aſſembled together, have a Sove<g ref="char:EOLhyphen"/>raigne
+and tranſcendent Power, and excelling Dignity; but it
+followes not therefore, that the two Houſes conſidered apart
+from their Soveraigne, much leſſe a few Members (a ſmall parcell
+of that part) are of like eminency and authority, no more than it
+followes, Maſter <hi>Burton</hi> a Divine, Doctor <hi>Baſtwicke</hi> a Phiſitian,
+and Maſter <hi>Prinne</hi> an utter-Barreſter ſtood all on the <hi>Pillory,</hi> and loſt
+their eares, in one and the ſame houre, for one and the ſame Crime,
+<pb n="11" facs="tcp:123387:7"/>
+of railing, ſlandering, and ſeditious libelling, therefore Maſter <hi>Bur<g ref="char:EOLhyphen"/>ton,</hi>
+Doctor <hi>Baſtwicke,</hi> and Maſter <hi>Prinne</hi> have all three one and
+the ſame ſoule, ſuffered all in one and the ſame Body, <hi>Baſtwicke</hi> and
+<hi>Burton</hi> loſt their eares for <hi>Prinne,</hi> by way of ſympathy or co-ordi<g ref="char:EOLhyphen"/>nation,
+(becauſe <hi>Prinnes</hi> Eares were loſt long before) and ſo <hi>ſe in<g ref="char:EOLhyphen"/>vicem
+ſupplent:</hi> and any two of them have all the capacities of all
+three; the Divine and Phiſitian make a Lawyer, the Lawyer and
+Phiſitian make a Divine, and the Divine and Lawyer make a per<g ref="char:EOLhyphen"/>fect
+Phiſitian, this is <hi>Prinnes</hi> Logicke, by which he may prove his
+halfe Eares to be whole ones, and the Five Members to have as
+much power as both Houſes.</p>
+            <p>In <hi>pag.</hi> 42. for his Anſwer to the Objection concerning the
+Kings abſence from Parliament, affirming, <hi>that He is abſent as a
+man, but preſent as a King;</hi> it is as learned as that is loyall which
+juſtifies the ſhooting bullets at Him in his perſonall capacity, yet
+obeying Him in his Regall capacity, and I believe both had their
+originall from the ſame Maſter of Sentences, <hi>The Spirit of the Aire
+which rules in the hearts of ſuch children of diſobedience.</hi>
+            </p>
+            <p>In <hi>pag. 44. &amp;</hi> 45. Concerning his Arguments from Scripture, I
+will ſay no more, but when the <hi>Fox</hi> preaches, beware your <hi>Geeſe,</hi>
+for I am ſure the Devill had his <hi>Scriptum eſt,</hi> (it is written) as well
+as he wreſts, mangles, and miſapplies it as ill as ever did the De<g ref="char:EOLhyphen"/>vill.
+If any <hi>Diraan</hi> pleaſe to ſearch, he ſhall finde that the Devill
+hath but his due in this triall, betwixt Maſter <hi>Prinne</hi> and him<g ref="char:EOLhyphen"/>ſelfe.</p>
+            <p>
+               <hi>Pag.</hi> 46. to 112. As for his Law and Law-bookes, let him look
+them over again, (if he took them not upon truſt) as he doth the
+reſt of his Learning, from Indexes, Gloſſaries, <hi>Covels</hi> Interpreter,
+<hi>Lexicon Juris, &amp;c.</hi> And he ſhall finde, that they never attributed
+the moſt abſolute and ſupremeſt Power of Head and Bodie (to uſe
+his own phraſe) to the Parliament, but when it is a perfect true
+Parliament, conſiſting of the Head, the King, as well as of the Bo<g ref="char:EOLhyphen"/>die,
+the Houſes; nor would any man that is not as headleſſe as <hi>Prinne</hi>
+is earleſſe, have been ſo heedleſſe in his own Authours, let all men
+that mean to be coozened become <hi>Prinnes Clients,</hi> he ſhall vouch
+Book-law enough, but not one law-caſe to the purpoſe; witneſſe
+his inſtances of the Parliament lawfully depoſing the King; and of
+the Parliaments power to diſpoſe the Kingdome to what Family
+<pb n="12" facs="tcp:123387:8"/>
+they pleaſe, and the like; he that wants a Kingdome, let him come
+to <hi>Prinnes</hi> market, he will affoord large penniworths, now he ſets
+Kingdomes to ſale, any man may buy one, or if he miſſe, he ſhall be
+ſure to have Bulls enough at a cheape rate.</p>
+            <p>
+               <hi>Pag. 51. &amp; lin.</hi> 33. He ſaith, <hi>King Edward the Confeſſour, took
+his Oath at his Coronation upon the Euangeliſts,</hi> and bleſſed Re<g ref="char:EOLhyphen"/>liques
+of <hi>S. S.</hi> (what is all that to King <hi>Charles?</hi>) indeed <hi>Prinne</hi> and
+his Members are worthy to have a King that will ſweare by Re<g ref="char:EOLhyphen"/>liques,
+for with a moſt treacherous diffidence, they will not believe
+a moſt gracious Chriſtian King, that hath often ſworne and proteſt<g ref="char:EOLhyphen"/>ed
+by the true Almighty God to defend and maintain the true Pro<g ref="char:EOLhyphen"/>teſtant
+Religion, the Lawes of the Land, the Subjects Libertie and
+Right, with all the Priviledges of Parliaments, all which Oathes
+and Proteſtations his Majeſty hath never broke, though a crew of
+perfidious Villaines do ſlander Him moſt traiterouſly, with the
+aſpiſh venome of their viperous Tongues, the peſtiferous poyſon
+bawl'd, belch'd, and vomited from hireling Schiſmaticall Preach<g ref="char:EOLhyphen"/>ers,
+and the Preſſes being oppreſt with printing of infamous Lyes,
+and Libells, for which (no doubt) but your great Maſter (the Bur<g ref="char:EOLhyphen"/>geſſe
+of <hi>Barathrum,</hi> as ſure as <hi>George Peard</hi> is Burgeſſe of <hi>Bar<g ref="char:EOLhyphen"/>ſtaple</hi>)
+who ſet you on worke, will not faile to pay you your
+wages.</p>
+            <p>In <hi>pag. 52. that William Conquerour took his Oath before the
+Altar of the Apoſtle S. Peter:</hi> this is as ſuitable ſtuffe as the reſt,
+but me thinkes <hi>Prinne</hi> ſhould not name an Altar, without an H.
+and if the Apoſtle knew you gave him his juſt Title of Saint, it is
+unknown how kindly he would take it; but diminitive mighty
+<hi>Iſaak</hi> with your Task-maſters (the Members) that ſet you on
+worke would utterly diſlike your utter Barreſterſhip, for daring to
+Saint any Apoſtle or Saint whom they by their Votes have un<g ref="char:EOLhyphen"/>ſainted.</p>
+            <p>
+               <hi>Pag.</hi> 79. He urges the depoſing of King <hi>Edward</hi> the Second,
+and in <hi>pag.</hi> 80. he makes another traiterous preſident of the depo<g ref="char:EOLhyphen"/>ſing
+of King <hi>Richard</hi> the Second, but he never mentions the miſ<g ref="char:EOLhyphen"/>chiefes
+that this Kingdome endured by thoſe wicked paracidicall
+Villanes, I will reckon a few of them.</p>
+            <p>Firſt, Parſon <hi>John Ball</hi> with <hi>Wat Titler, Jack Straw,</hi> and <hi>Jack
+Shepheard,</hi> aroſe in rebellion, <hi>&amp;c. Anno</hi> 1379. murdered <hi>Simon Sud<g ref="char:EOLhyphen"/>bury</hi>
+               <pb n="13" facs="tcp:123387:8"/>
+Archbiſhop of <hi>Canterbury,</hi> for which inſurrection and mur<g ref="char:EOLhyphen"/>der
+1500. Rebells were hanged in ſeverall places, look to it <hi>Prinne</hi>
+one place will ſerve your turne.</p>
+            <p>
+               <hi>Anno</hi> 1450. One <hi>Blewbeard</hi> was a Captain of Rebells, but
+they were quickly foil'd, ſome hanged, and ſome taken, and for a
+token of remembrance, <hi>James Fiennes</hi> Lord <hi>Say,</hi> then Lord Trea<g ref="char:EOLhyphen"/>ſurer
+of <hi>England,</hi> was found guilty of many Treaſons, and hand<g ref="char:EOLhyphen"/>ſomely
+hanged, in the 29. yeare of King <hi>Henry</hi> the Sixth.</p>
+            <p>After that, <hi>Jack Cade</hi> a Bricklayer, and withall a counterfeit
+<hi>Mortimer,</hi> did then, as ſome of his Tribe do now, tax the King
+with evill Counſellours; thus <hi>Cade</hi> raiſed an Army of Rebells,
+which were not ſuppreſt without the loſſe of 5000 men, beſides
+other outrages committed.</p>
+            <p>
+               <hi>Anno</hi> 1454. As the Battaile of S. <hi>Albans,</hi> betwixt the <hi>Yorkifts,</hi>
+and <hi>Lancaſtrians,</hi> King <hi>Henry</hi> the Sixth loſt 8000 men, and the
+Duke of <hi>York</hi> 6000.</p>
+            <p>At <hi>Blore-heath</hi> field in <hi>Shrop-ſhire,</hi> 1459. between the King and
+the Earle of <hi>Warwick</hi> 4000 men ſlain, the 38 yeare of <hi>Henry</hi> the
+Sixth.</p>
+            <p>At the Battaile of <hi>Northampton,</hi> 3000 men were ſlain, between
+Queen <hi>Margaret</hi> and the Barons, and there King <hi>Henry</hi> the Sixth
+was taken priſoner.</p>
+            <p>At the Battaile of <hi>Wakefield</hi> Queen <hi>Margaret</hi> told <hi>Richard</hi> Duke
+of <hi>Yorke</hi> and beheaded him, 4000 men ſlain.</p>
+            <p>
+               <hi>Anno</hi> 1460. At the Battaile of <hi>Towton,</hi> Queen <hi>Margaret</hi>
+brought into the field 60000 men, and King <hi>Edward</hi> the Fourth
+had 49000 in which fatall Battaile 36000 men were ſlain.</p>
+            <p>
+               <hi>Anno</hi> 1462. At the Battaile of <hi>Exham</hi> in the North, between
+Queen <hi>Margaret</hi> and the Lord Marques <hi>Mountacue</hi> 16000 men
+were ſlain.</p>
+            <p>
+               <hi>Anno</hi> 1467. At the Battaile of <hi>Banbury,</hi> the 7. of King <hi>Edward</hi>
+the Fourth, between <hi>William Herbert</hi> Earle of <hi>Pembroke,</hi> and
+Queen <hi>Margarets</hi> Forces 7000 ſlain.</p>
+            <p>In the 9. of <hi>Edward</hi> the Fourth, at the Battaile of <hi>Loſe-coateſ<g ref="char:EOLhyphen"/>field</hi>
+in <hi>Lincoln-ſhire</hi> betwixt the King and the Barons 10000
+ſlain.</p>
+            <p>At the Battaile at <hi>Teuxbury,</hi> Prince <hi>Edward</hi> eldeſt ſon to King
+<hi>Henry</hi> the Sixth was ſtabb'd and murdered, and 3000 ſlain.</p>
+            <p>
+               <pb n="14" facs="tcp:123387:9"/>
+And laſtly, at the Battaile at <hi>Barnet</hi> betwixt King <hi>Edward</hi> and
+the Earles of <hi>Warwick</hi> and <hi>Oxford,</hi> who were both killed and
+10000 ſlain, the King being Victor.</p>
+            <p>This I have inſerted by way of digreſſion, to ſhew how the
+Divine vengeance was the reward for the depoſing of a lawfull
+King, for ſo all the world knowes <hi>Richard</hi> the Second was; above
+eighty yeares was this wofull Land an unnaturall bloody Thea<g ref="char:EOLhyphen"/>tre,
+wherein <hi>Engliſh-men</hi> againſt <hi>Engliſh-men</hi> did act all manner
+of unchriſtian cruelties, in which Diſſention more than 60 of
+the Blood Royall were ſlaine, beſides others in abundance of
+Nobility and Gentry, as alſo more than 125000 common Souldi<g ref="char:EOLhyphen"/>ers,
+as our Hiſtories relate, and to ſuch a paſſe as this hath Maſter
+<hi>Prinne</hi> and his Faction done their beſt to bring it to againe, as
+within theſe three yeares they have prettily begun and proſe<g ref="char:EOLhyphen"/>cuted.</p>
+            <p>
+               <hi>Page</hi> 87. He quotes the falling away of the ten Tribes from <hi>Re<g ref="char:EOLhyphen"/>hoboam</hi>
+for a preſident for Rebellion, <hi>page</hi> 88. all along he mentions
+the depoſing of wicked Popes, <hi>page</hi> 9. he repeates the words of <hi>Cai<g ref="char:EOLhyphen"/>phas,
+That it was expedient that one ſhould die for the people, (though
+a King, yea Christ the King of Kings) that the whole Nation periſh
+not, rather then the whole Nation periſh for him.</hi> O thou blaſphe<g ref="char:EOLhyphen"/>mous
+beaſt, Doeſt thou ſo farre hate the Lord's Anointed, as to
+juſtifie the crucifying of our Saviour, in expreſſion of thy malice to
+thy Soveraigne? Good Sir, there is no ſuch neceſſity that either the
+King or Subject ſhould die one for another, or that they ſhould ſo
+much as diſtaſte each other, nor had this lamentable Diſtraction
+been between them, but that your delicate Maſter the Devill hath,
+by your meanes, ſet them at Diviſion. In his 91. <hi>page</hi> he ſpeakes
+ſome Truth, <hi>That the King hath not power to tyrannize over his
+Subiects,</hi> or to oppreſſe them with perpetuall irremediable <hi>ſlavery.</hi>
+Good Maſter <hi>Gandergooſe,</hi> 'tis confeſt, that the King hath no ſuch
+power, nor ever did he exerciſe any ſuch Tyranny as you talke of,
+but you and your Accomplices have uſurped a Traiterous power to
+your ſelves, whereby yee have tyrannized over his Majeſties Sub<g ref="char:EOLhyphen"/>jects
+in more ſavage and barbarous manner than Turkes or Tartars
+would have done. <hi>page 92. Prinne</hi> ſpeakes a parcell of non-ſenſe in
+capital Letters, <hi>It is lawfull for the people (ſubmitting themſelves)
+to ſubſcribe the King and his Succeſſours what Law they pleaſe.</hi>
+               <pb n="15" facs="tcp:123387:9"/>
+O! what might this fellowes Head be worth at a hard Siege, when
+one of his Brothers Heads was ſold at <hi>Samaria</hi> for 80 pieces of Sil<g ref="char:EOLhyphen"/>ver,
+2. <hi>King.</hi> 6. 25.</p>
+            <p>
+               <hi>Pag.</hi> 97. he ſaith, <hi>that King Edward the ſixth, and Queen Eliza<g ref="char:EOLhyphen"/>beth
+did hold their Crownes by Parliamentary title rather then by the
+courſe of common Law.</hi> Baw waw, indeed their Legitimacie was
+objected againſt by ſome opulent Papiſts, becauſe their Father the
+King had married the Lady <hi>Katherin,</hi> who was firſt his Brother <hi>Ar<g ref="char:EOLhyphen"/>thurs</hi>
+wife, and after 21 yeares marriage, the King cauſed her to be
+divorc'd from him, and he marrying other wives in her life time,
+the Childrens Right (by birth) was by ſome Malignants queſtio<g ref="char:EOLhyphen"/>nable;
+to cleare which doubts, the King cauſed their Legitimacie to
+be confirmed by Act of Parliament, and ſo much in Anſwer to that
+abſurd Treaſon.</p>
+            <p>
+               <hi>Pag.</hi> 101. he ſaies, <hi>Charles the third, Emperour was depoſed by the
+Princes, Dukes, and Governours of Germany becauſe he was mad.</hi>
+Surely thou art not well in thy wits, to meddle with that mad Em<g ref="char:EOLhyphen"/>perour,
+whoſe madneſſe or depoſing concernes neither thee nor thy
+mad Cauſe thou prateſt and lieſt ſo in; then he talkes of <hi>Wenceſlaus</hi>
+the Emperour, and <hi>Childerick</hi> King of <hi>France,</hi> how they were both
+depos'd; And yet in the 104 <hi>pag.</hi> he confeſſes, <hi>the King hath no
+Peere, He is not to have a Superiour, and that the King ought not to
+be under man, but God. If Justice be demanded of him by way of Pe<g ref="char:EOLhyphen"/>tition,
+(becauſe no Writs runnes againſt him) if he doe not Iuſtice,
+this puniſhment may be ſufficient to him, that God will revenge it;</hi> and
+yet preſently again he ſaies, <hi>the Parliament is above the King.</hi> Thus
+you ſee how ſometimes the Devill gives him leave to ſpeake truth
+againſt his will, though preſently he fall from it againe, as being not
+toothſome; was ever ſuch a Crop-eard Aſſe, that would thus con<g ref="char:EOLhyphen"/>tradict
+himſelfe? In the 106 <hi>pag.</hi> he ſaies, the <hi>Emperours had not
+higheſt power in Rome,</hi> and yet he cannot deny that Saint <hi>Paul</hi> ap<g ref="char:EOLhyphen"/>peal'd
+to <hi>Caeſar,</hi> from whom there was no appeale.</p>
+            <p>In the 112 and laſt page, he calls the Rebells that the Kings For<g ref="char:EOLhyphen"/>ces
+took at <hi>Ciceter, good People,</hi> he complaines much of their hard
+uſage, (I think he meanes becauſe they were not hanged) it was
+winter, he ſaies, and <hi>that they were forced to goe barefooted in Tri<g ref="char:EOLhyphen"/>umph
+to Oxford,</hi> truly we are beholding to your Faction for the kind
+entertainment you have given to the Kings good Subjects when
+<pb n="16" facs="tcp:123387:10"/>
+you have taken them, you have either lovingly cut their Throats in
+cold blood, or courteouſly hang'd the<g ref="char:cmbAbbrStroke">̄</g>, or hoſpitably famiſh'd them,
+freely impriſoned them, bountifully rob'd and plunder'd them, and
+favourably baniſh'd, ruin'd, and undone them, and all this and more
+you have done for the Liberty of the Subject, by the command of
+the Publique Faith. Moreover he ſaies that the good People <hi>from
+Cirencester were Chain'd together with Ropes;</hi> that's a Bull, Sir,
+I doubt not, but there will come a time, when young <hi>Grigge</hi> ſhall
+teach thee in a trice (with a trick that he hath) what the diffe<g ref="char:EOLhyphen"/>rence
+is betweene a Chaine and a Rope; and ſo I leave Repea<g ref="char:EOLhyphen"/>ting
+and Parapraſing any more on <hi>Prinnes</hi> moſt matchleſſe, firſt
+of his foure <hi>Proditorious</hi> parts.</p>
+            <p>The Reader may wonder why I ſpend no more Paper about the
+firſt part, and I doubt all his whole Book is not worthy of ſo much.
+But I aſſure you when I had ſurveyed every limbe of the Monſter,
+and pared of the excreſcences, I had much adoe to finde thus much
+conſiderable matter in it, yet I am reſolved to doe him the honour,
+and afford him the patience, to view his ſecond part, if it be but for
+love to his new Hebrew word (the <hi>Militia</hi>) for if his Brethren
+underſtood that it were Latine, the language of the Beaſt, they
+would never endure the uſe of it.</p>
+            <div type="part">
+               <head>An Anſwer to Prinnes ſecond Part of his Sove<g ref="char:EOLhyphen"/>raigne
+Power of Parliament.</head>
+               <p>IN his Preface he complaines of <hi>Ignorance,</hi> (ah ungratious Boy
+doſt thou raile againſt thy Mother!) <hi>in ſuch as underſtand not a
+Parliament, and that his Books (he hopes) will be get a firme Peace;</hi>
+Indeed he that made light out of darkneſſe, is able to produce good
+out of evill; but how <hi>Prinnes</hi> Bookes (ſtuffed as full of lies as lines)
+wherein every word breathes Treaſon, every ſyllable incites to
+Rebellion, and the whole <hi>Chaos</hi> and confuſed maſſe of it is an un<g ref="char:EOLhyphen"/>ſhap'd
+lump of all the Villanies, Aſſaſſinations, Murders, Treaſons,
+Rebellions, Depoſings, Impriſonments, and all the calamities that
+hath befalne to infortunate Kings and Princes, in all Nations, either
+Chriſtians or others, ſince the worlds creation; at leaſt as much as his
+<pb n="17" facs="tcp:123387:10"/>
+treacherous ſtudious ſearch could finde out, he hath pack'd and hud<g ref="char:EOLhyphen"/>led
+together, purpoſely to root out and ruinate His ſacred Majeſty
+and Royall Poſterity, to raiſe a never ending Contention, and to
+make His Majeſties Dominions perpetuall fields of blood; theſe
+are the marrow, pith, and intention of M. <hi>Prinnes</hi> ſweet Peace<g ref="char:EOLhyphen"/>making
+Bookes. At the latter end of his Preface, he uſes a piece of
+the <hi>Letanie,</hi> ſaying, <hi>Good Lord deliver us.</hi> But I wiſh him to take
+heed that it come not to the hearing of the Members, or the Cloſe
+Committee, that he ſpake ſuch words, for then he will be miſtaken
+for a <hi>Proteſtant,</hi> and ſo excluded from all grace, favour, and com<g ref="char:EOLhyphen"/>munity
+with the godly.</p>
+               <p>
+                  <hi>Pag.</hi> 3. In this ſecond part you may finde out of <hi>Prinnes</hi> owne
+Confeſſion. Firſt, conveniency, ſecond neceſſity, and thirdly cu<g ref="char:EOLhyphen"/>ſtome;
+all concurring for the Kings ordering of the <hi>Militia.</hi> Take
+heed M. <hi>Prinne</hi> what you ſay, for if M. <hi>Saint-Johns,</hi> and your Ma<g ref="char:EOLhyphen"/>ſters
+of the higheſt lower Houſe heare you, they may perhaps occa<g ref="char:EOLhyphen"/>ſion
+a conference betwixt you and <hi>Tom Naſh his Ghoſt,</hi> to be cryed
+up and downe the ſtreets, as they dealt with your betters before
+you; and if your good Miſtreſſes in <hi>London</hi> underſtand it, farewell
+all further Contribution, your late Triumphant Bayes, will be turn'd
+to Funerall <hi>Ewghe,</hi> and if you can mend the matter no better, then
+you doe, by begging the Queſtion and arguing ſo barrenly, to wit,
+that <hi>it muſt be granted, that the whole power of his Majeſty, and his
+Predeceſſors, in the Militia, was derived from the Parliament.</hi> This
+ſtuffe he treates on, from the third <hi>pag.</hi> to the twelfth, wherein he
+croſſes all that he ſaies in the third <hi>pag.</hi> formerly repeated, but if
+you can confirme your fine flouriſhes no better then by Equivoca<g ref="char:EOLhyphen"/>tions,
+Amphibologies, and myſticall Sophiſticall Fallacies, by one
+while taking the Parliament for King and People, (as in the uſuall
+ſenſe it ought to be taken and the Lawes made by them all;) And
+another while making uſe of the word Parliament, in your owne
+ſenſe onely, for the two Houſes in contradiction to the King; your
+Grant muſt be onely, <hi>to have and to hold,</hi> ſixe foot in <hi>Knaves Acre,</hi>
+under an overthwart beame, for you hate the name of the Croſſe,
+on the higheſt Promontorie in the Province of <hi>Foolciana;</hi> or if it
+light in the line of Communication, as a ſpeciall part of that Pro<g ref="char:EOLhyphen"/>vince
+is ſcituated neare to them, then your Grant may be to have
+as much roome for your Quarters as you had for your Eares, and that
+<pb n="18" facs="tcp:123387:11"/>
+your Head may be mounted on <hi>London Bridge,</hi> and made one of the
+overſeers of the City, which by your writings ſeemes to be a ſpe<g ref="char:EOLhyphen"/>ciall
+part of your Ambition, I am ſure a juſt Reward of your moſt
+unmatchable undertakings.</p>
+               <p>
+                  <hi>Pag.</hi> 12. As for the conſequence of denying His Majeſty the <hi>Mi<g ref="char:EOLhyphen"/>litia,</hi>
+and of the Parliaments ſeizing upon <hi>Hull,</hi> with other Ports,
+Forts, the Royall Navy, Armes, Ammunition, Revenues, and
+detaining them ſtill from His Majeſty, which you ſay, <hi>His Ma<g ref="char:EOLhyphen"/>jeſty
+and all Royaliſts muſt neceſſarily yeild,</hi> nay you ſhould have en<g ref="char:EOLhyphen"/>treated
+to have them yeilded out of curteſie, for elſe you can never
+inforce them, are not his, but the Kingdomes, in point of Right and
+Intereſt, they being firſt transferd to, and placed in his Predeceſſors,
+and himſelfe by Parliament. Here is an excellent proofe.</p>
+               <p>Weaker then that of <hi>Tenterton Steeple</hi> being the cauſe of <hi>Good<g ref="char:EOLhyphen"/>wine
+Sands,</hi> for ſay thoſe Logitians, there were no ſuch dangerous
+Sands, before that Steeple was built, or ſunke, ſo that Steeple was
+the cauſe of thoſe Sands, but I can conclude more directly and <hi>con<g ref="char:EOLhyphen"/>trariò,</hi>
+as thus;</p>
+               <p>The Kings of <hi>England</hi> had alwayes power over the <hi>Militia,</hi> ever
+ſince <hi>England</hi> had a King there;</p>
+               <p>But there was a King of <hi>England,</hi> before there was any Parlia<g ref="char:EOLhyphen"/>ment,
+and ſo ſoon as there is ſtory of any people in <hi>England;</hi>
+               </p>
+               <p>Therefore the Parliament gave not the King of <hi>England</hi> power
+over the <hi>Militia.</hi>
+               </p>
+               <p>If the ſtory of <hi>Brute</hi> be true, my <hi>Maior</hi> cannot be falſe, if any
+Chronicle of <hi>England</hi> be true, my <hi>Minor</hi> will not faile; how then
+the concluſion can be denyed I perceive not, except in the diſputa<g ref="char:EOLhyphen"/>tion
+betwixt the Collier and the Divell, which I leave to <hi>Prinnes</hi>
+Logick to reſolve, and reduce the Contradictory by <hi>Impoſſibility,</hi>
+which if he doe not in <hi>Celarent,</hi> he cannot eſcape doing it in <hi>Bocar<g ref="char:EOLhyphen"/>do,</hi>
+where I leave him to read over his <hi>Fleta,</hi> it may teach him more
+Law and Conſcience then to excuſe the Rebellion in <hi>England,</hi> by
+a Rebellion in <hi>Ireland</hi> of their owne making, as that is the beſt co<g ref="char:EOLhyphen"/>lour
+which yet this Brazen face can caſt upon it.</p>
+               <p>
+                  <hi>Pag.</hi> 25. and 26. he comes upon us with a drove of Bulls, of his
+owne uſuall Breeding; <hi>That the Parliament</hi> (meaning the two
+Houſes onely) <hi>cannot be guilty of Treaſon;</hi> ſecondly, <hi>that the Sta<g ref="char:EOLhyphen"/>tutes
+againſt Treaſon extends not to them;</hi> thirdly, <hi>that they are grea<g ref="char:EOLhyphen"/>ter
+<pb n="19" facs="tcp:123387:11"/>
+then the King;</hi> fourthly, <hi>that the Oathes of Allegiance and Su<g ref="char:EOLhyphen"/>premacy
+bind onely in Relation to the Pope and Forreigne States, but
+not with reference to the Houſes; or onely out of Parliament time,
+not whileſt the Parliament is ſitting;</hi> Theſe are ſuch <hi>Mockado Fu<g ref="char:EOLhyphen"/>ſtian</hi>
+Non ſenſe, and ſuch ſilly Childiſh ſhufflings, as that the ſenſe
+in plaine Engliſh, is to ſay, That the King hath Authority againſt
+other Princes, but no power over his owne Subjects, or that thoſe
+in his owne Realmes are his Soveraignes, and other Soveraignes
+are his Subjects; or when he conſults the moſt carefulleſt for the
+good of his Kingdomes, he deſires to be required by being unking'd
+by them; ſuch ſtrange Paradoxes, abſurd Soleſiſmes, and monſters
+of Policy, Morality, Reaſon, Nature and Religion, are the off-ſpring
+of this new State Emperick; who perhaps expects other applauſe,
+or, at the leaſt, Approbation, as he is aſſured of his owne <hi>Narciſſian</hi>
+admiration, onely becauſe he ſees but the ſhadow, underſtands not
+the ſubſtance of what he ſuperficially delineates, by a Pen that
+drops Poyſon inſtead of Inke, to ſupport the pretended Feares and
+Iealouſies, by an enumeration and malitious interpretation, of all
+the acts of Iuſtice ſince the third yeare of his now Majeſties Raigne,
+upon thoſe who were reſtrained from bringing this Rebellion ſoo<g ref="char:EOLhyphen"/>ner
+to the Birth; give <hi>Prinne</hi> but ſuch another Fee as he had at his
+Triumphall Returne to <hi>London,</hi> and he will be an Advocate for
+thoſe in the third of <hi>Iacobi,</hi> and for thoſe in the 13 of Queene <hi>Eli<g ref="char:EOLhyphen"/>zabeth;</hi>
+yea for <hi>Ravilliac, Iudas,</hi> and <hi>Lucifer,</hi> for all were but Re<g ref="char:EOLhyphen"/>bells
+and Traitors, onely one was a little elder then the other; Thus
+from the 25 <hi>pag.</hi> to the 40. he reckons up a pack of grievances,
+wherewith the Subject was charged, which were all redreſſed,
+long agoe, aſſoone as His Majeſty was rightly certified of them; but
+no Acts of Grace can procure an expiation from inexorable Ma<g ref="char:EOLhyphen"/>ſter
+<hi>Prinne.</hi>
+               </p>
+               <p>But why trouble I my ſelfe to ſatisfie one, whom Reaſon cannot
+ſatisfie, one, whom no Proteſtations, or Oathes of Princes, no Acts
+of Grace or Statutes paſt in Parliament can ſatisfie, and therefore
+let him reſt unſatisfied till he be hanged. <hi>He is ill to truſt who will
+trust no body,</hi> the Proverbe tells us<g ref="char:punc">▪</g> yet for this once, let him
+goe on <hi>give him Rope enough, and he will hang, himſelfe;</hi> In his 40
+<hi>pag.</hi> he ſaith, the King hath no power to chuſe his Privy Councel<g ref="char:EOLhyphen"/>lors;
+but <hi>Prinne</hi> and his Magnificent Members, would have the chu<g ref="char:EOLhyphen"/>ſing
+<pb n="20" facs="tcp:123387:12"/>
+and authorizing of new Privy Counſellors, and Officers of
+State, for thoſe, he tells us, his <hi>
+                     <g ref="char:V">Ʋ</g>topian</hi> Parliament hath power to
+appoint, (yet the King may not chuſe or appoint any of them their
+ſervants) he ſhould have added in time of Rebellion. In <hi>pag.</hi> 41 to
+64. and ſo from thence to 65 and 79 he prates (to little or no pur<g ref="char:EOLhyphen"/>poſe)
+<hi>that the King hath no Negative Voyce,</hi> but what the undecei<g ref="char:EOLhyphen"/>ved
+Majeſty of the vulgar, Captaine <hi>Highſhoes,</hi> and Colonell
+<hi>Mawworme,</hi> and their companions pleaſe to propoſe muſt be grant<g ref="char:EOLhyphen"/>ed;
+who, till thoſe can agree whether the Lord <hi>Say</hi> or the right hor<g ref="char:EOLhyphen"/>rible
+<hi>Kimbolton</hi> ſhall be Protector: his <hi>Excellency</hi> or the Lady <hi>Wal<g ref="char:EOLhyphen"/>ler</hi>
+high Conſtable of <hi>England, Pym,</hi> or <hi>Prinne</hi> (for I hope he will
+not plead all this while for other folkes and forget himſelfe) Lord
+Keeper of the new great Seale, Sergeant <hi>Wilde,</hi> or Speaker <hi>Lenthall,</hi>
+Maſter of the <hi>Rolls, Burton</hi> or <hi>Marſhall</hi> Archbiſhop; for that calling
+would be as lawfull in one of their hands, as the Court of <hi>Wards</hi>
+was when the Lord <hi>Say</hi> was Maſter of it,) <hi>Peard, Glinne</hi> or
+<hi>Prideaux</hi> chiefe Iuſtices; <hi>Feilding</hi> or <hi>Stamford,</hi> (for they are both
+vertuous and thrifty men) Lord Treaſurer; I would entreat <hi>War<g ref="char:EOLhyphen"/>wicke,</hi>
+to provide for his owne and their ſecurity in the Admirall
+Ship of Fooles, and wiſh a faire Gale for them as farre as <hi>New-England,</hi>
+till they ſhall learne more ſincerity in Religion, more loy<g ref="char:EOLhyphen"/>alty
+to their Soveraigne, more charity to their Chriſtian Brethren,
+and <hi>Prinne</hi> ceaſe falſifying and perverting Records, Preſidents, and
+Allegations; and then a Property maker hath promiſed to reſtore
+his Eares againe; in the meane time, let him confeſſe himſelfe wor<g ref="char:EOLhyphen"/>thily
+Branded for Falſifying, Lying and Slandering (even <hi>Scandala
+Magnatum</hi>) Forgerie, Falſe witneſſe bearing, Perjury, and all man<g ref="char:EOLhyphen"/>ner
+of Villany, with which his Bookes ſwarme as thick, as the low<g ref="char:EOLhyphen"/>er
+Houſe doore did with <hi>Browniſts</hi> &amp; <hi>Anabaptiſts</hi> at the beginning
+of this Parliament, or as <hi>Weſtminſter-Hall</hi> and the <hi>Pallace yard</hi> did
+with Tumults before the death of the Earle of <hi>Strafford,</hi> or the put<g ref="char:EOLhyphen"/>ting
+the Biſhops out of the Houſe, or as the high wayes and ſtreets,
+did with Puritan Punks, when <hi>Prinne</hi> and his fellowes (S<hi rend="sup">t</hi> Rebells)
+return'd from <hi>Limbo</hi> to be Canoniz'd at <hi>London,</hi> which City they
+have ever ſince transform'd to be a Hell upon Earth.</p>
+               <p>Further (to roote the ſeduced people in diſlike of his Sacred Ma<g ref="char:EOLhyphen"/>jeſty,
+and to make them Irrevocable Rebels, as alſo to blaſt the In<g ref="char:EOLhyphen"/>tegrity
+of his Majeſties Royall Perſon, his Honourable Councel<g ref="char:EOLhyphen"/>lours
+<pb n="21" facs="tcp:123387:12"/>
+and Servants,) he names <hi>Ganeſtone</hi> and the <hi>Spencers, Empſon</hi>
+and <hi>Dudley,</hi> and others that were diſplaced by Parliaments for De<g ref="char:EOLhyphen"/>linquencie;
+'tis right <hi>William,</hi> but thoſe Parliaments had proofes for
+what they did, and the King was with them, and confirm'd their
+cenſures: but you are not ſo much as the bares Skelliton of a Parlia<g ref="char:EOLhyphen"/>ment,
+which if it were a full Body, yet it wants a head, therefore all
+your Votes and cenſures are Headleſſe.</p>
+               <p>Page. 48. his running head talkes of a Parliament in <hi>Running
+Mead,</hi> (near <hi>Windſor</hi>) wherein King <hi>John</hi> Aſſented to ſuch Acts of
+ſetling and ſecuring <hi>Magna-Charta,</hi> and all other good Lawes and
+Liberties formerly granted. I tell thee <hi>Prinne,</hi> that King <hi>Iohn</hi> did
+well in ſo Aſſenting to his Peeres and Commons, for then and there
+their requeſts were juſt and Lawfull; neither did King <hi>Charles</hi> (a
+more Chriſtian and ſurer Titled King, then King <hi>Iohn</hi>) ever deny
+his Royall Aſſent to any juſt requeſt for the Redreſſe of greivances,
+releife of His Subjects, and Tranquillity of his Kingdomes.</p>
+               <p>
+                  <hi>Page</hi> 55. He hath a fling at <hi>Alice Pierce,</hi> King <hi>Edward</hi> the
+Third's Concubine, 'tis marvell that <hi>Roſamond</hi> and <hi>Jane Shore</hi>
+ſcap'd him, and it had been as congruent for him to have brought in
+<hi>Lais, Thais, Faustine, Meſſalina,</hi> and all the rabble of royall and
+baſe Whores that have been ſince the Creation; for what though
+<hi>Alice Pierce</hi> (being her ſelfe proud of the favour of ſo puiſſant a
+King) did ſometimes, with impudent and uncivill behaviour in<g ref="char:EOLhyphen"/>trude
+her ſelfe to ſit with the Iudges on the Bench, to countenance
+and preferre ſome private Cauſes for her own ends or her friends;
+to which I anſwer, that the Iudges were either bribed Knaves, or
+timorous Fooles, in ſuffering ſuch a Coapeſmate to ſit with them
+upon any termes of right or wrong. But to what purpoſe this
+Gentlewoman (who was dead and rotten 250 yeares before King
+<hi>Charles</hi> was borne) ſhould be raked up as a Teſtimony againſt Him
+now, this is a meere Riddle to me, and is a taske for an <hi>Oedipus</hi>
+onely to unfold.</p>
+               <p>
+                  <hi>Page 75. The King cannot by his Prerogative lay the least Tax
+upon any of his Subjects;</hi> but, I pray, what authority or Preroga<g ref="char:EOLhyphen"/>tive
+have you, and your potent Members to rob, ſpoile, and plun<g ref="char:EOLhyphen"/>der
+the King and all his good Subjects, who is ſo juſt, mercifull,
+and chaſte, that neither the Devill nor any of the Members have
+dared to ſay the contrary? there's a bone for thee to picke.</p>
+               <p>
+                  <pb n="22" facs="tcp:123387:13"/>
+                  <hi>Page 78. Prinne</hi> (like an unmannerly Fellow) calls the famous
+Generall <hi>Jack Cade</hi> Rebell and Traitour; I pray Sir, moderate your
+paſſion, for me thinkes, fellowes ſhould agree, and when Thieves
+fallout, <hi>&amp;c.</hi> You know the Proverbe.</p>
+               <p>
+                  <hi>In</hi> page 79. That the affirming the Petition of Right, the Bills for
+Trienniall Parliaments, the continuance of this, the Acts againſt
+Ship-money, Foreſt bounds, illegall, new-invented grievances and op<g ref="char:EOLhyphen"/>preſſions,
+the Statutes for ſuppreſſion of Star-chamber, High Com<g ref="char:EOLhyphen"/>miſſion,
+Knighthood, Biſhops Votes: <hi>although the King hath done
+all theſe and more, yet this</hi> Scarrab Cadworme <hi>ſayes, that</hi> The
+King's Grace is not eclipſed, to ſay. <hi>They are no Acts of</hi> Grace, <hi>but
+Acts of</hi> Oath, Duty, Law, <hi>and</hi> Conſcience. Thus doth this filthy
+Varlet moſt traiterouſly beſlubber the goodneſſe and gracious fa<g ref="char:EOLhyphen"/>vours
+of a matchleſſe and unparalleld Chriſtian King.</p>
+               <p>And thus you have the ſumme and ſubſtance of his ſecond part
+of the Soveraigne Power of Parliaments.</p>
+            </div>
+            <div type="part">
+               <head>Vpon his third part of the Soveraigne Power of Parliaments.</head>
+               <p>ALthough his third and fourth parts are already anſwered by the
+learned Sir <hi>John Spelman</hi> Knight, Doctour <hi>Fearne,</hi> and Maſter
+<hi>Digges,</hi> too reverend and able Pennes to take notice of the name
+of ſuch a <hi>prinnified, prurigenous Puppy,</hi> from whom he ſtole his ratio<g ref="char:EOLhyphen"/>nall
+and Theologicall Paſſages, nothing being his own, but the out<g ref="char:EOLhyphen"/>facing
+with a multitude of pretended Teſtimonies, haled in, as he
+teacheth his Clients to hire Knights of the Poſte, to witneſſe that
+which they know nothing of, ſaving (I ſay) that there is nothing
+that concernes <hi>England,</hi> but the ſame again (quoth <hi>Mark a Bel<g ref="char:EOLhyphen"/>grave</hi>)
+to the Tune of <hi>Anthony, now, now,</hi> the old Song ſtill; like
+the laſt houre and halfe of a Puritan Sermon, or one of his long-winded
+Traverſes of <hi>Burton's Apology,</hi> or <hi>Baſtwickes Letany,</hi> in
+ſtead of a plea or anſwer, withouten that the aforeſaid <hi>Henry Bur<g ref="char:EOLhyphen"/>ton</hi>
+at <hi>Friday-ſtreet</hi> aforeſaid, in the manner and forme aforeſaid, did
+beate his wife aforeſaid, by reaſon of the independent ſiſter afore<g ref="char:EOLhyphen"/>ſaid,
+to beat out the evill ſpirit aforeſaid, and (withouten that) it
+was for the luſt aforeſaid, or withouten that the ſaid <hi>John Baſtwicke</hi>
+Doctour of Phiſicke aforeſaid, was ſo over-run with the <hi>Morbus
+<pb n="23" facs="tcp:123387:13"/>
+Gallicus</hi> aforeſaid, that when he was a Captain in the Rebellion
+aforeſaid, at the <hi>Newarke</hi> in <hi>Leicester</hi> aforeſaid, he was not able to
+get up to his horſe aforeſaid, without a ſtoole aforeſaid; and with<g ref="char:EOLhyphen"/>outen
+that, <hi>William Prinne</hi> aforeſaid, in the Church-lane there
+aforeſaid, in the Aſſembly of <hi>Adamites</hi> aforeſaid, exerciſed his
+gifts aforeſaid, to the edification of the Siſters aforeſaid, who gave
+him the Gold aforeſaid, and (in the feare of God) joyned in
+the Rebellion aforeſaid, as they will be ready to averre and main<g ref="char:EOLhyphen"/>tain,
+but never to prove any thing, if thoſe his Bookes have not ſuf<g ref="char:EOLhyphen"/>ficiently
+proved it; yet for all this I will afford him the honour
+to ſhame him, in anſwering of his third part, and thus I begin.</p>
+               <p>This third part he begins to magnifie Treaſon in his delicate
+Dedication, moſt loyally to three Arch-Rebells, namely, the Lord
+<hi>Fairfax,</hi> and the two Knights <hi>Williams, Waller</hi> and <hi>Breerton,</hi>
+wherein he ſtiles them, <hi>Deſervedly Renowned Worthies,</hi> calles their
+<hi>valour, zeale, activity, and induſtry, incomparable;</hi> (you ſhould have
+ſaid their Rebellion too;) 'tis confeſt, that their inviſible Victories
+have been many and miraculous, and their being often beaten hath
+been apparently perſpicuous and manifeſt, for which they have
+been jeared with Publique Thankeſgivings, as Maſter <hi>Prinne</hi>
+makes himſelfe merry with mocking them, in his foiſting Epiſtle;
+and it is not poſſible that theſe three Worthies ſhould be ſo threed<g ref="char:EOLhyphen"/>bare
+in their underſtandings, or that their wits ſhould be ſo ſtupified,
+as not to perceive this fellowes flouting flattery; as for their Victo<g ref="char:EOLhyphen"/>ries
+we do rather pitty than envy; and concerning the Worthies,
+I have ſeen nine of their Figures or Pictures in Haberdaſhers
+Shops and Tavernes, hanged up to garniſh the roomes, but Maſter
+<hi>Prinnes</hi> three Worthies ſhall not be hanged up in a private roome
+or ſhop, a large field is fitteſt for ſuch mighty Martialiſts. And for
+the valour of thoſe three Worthies, it was never known that the
+Lord <hi>Fairfax</hi> ſtruck a blow, except it were to his Tailer or his
+Footman; and for Sir <hi>William Waller</hi> he hath been ſo happy that he
+was never wounded, but onely in his reputation. But O, O, Sir
+<hi>William Breerton!</hi> noble, valiant, ſingular, ſupereminent, coura<g ref="char:EOLhyphen"/>gious
+Sir <hi>William Breerton,</hi> I could laugh heartily, were I once ſo
+happy as to ſee him within halfe a mile of a Battaile, O ſweet face,
+moſt amiable Sir <hi>William Breerton.</hi>
+               </p>
+               <p>In his Preface to the Reader, he ſaith, he hath been alwayes a
+<pb n="24" facs="tcp:123387:14"/>
+                  <hi>cordiall</hi> endeavourer of Peace (<hi>as right as my legge John Jarret</hi>)
+you might as well have ſaid <hi>Rope</hi>-ye-all, <hi>Halter</hi>-ye-all, as <hi>cordiall.</hi>
+               </p>
+               <p>In his third <hi>Page</hi> he ſeemes to invite his Majeſty to viſit the Par<g ref="char:EOLhyphen"/>liament,
+and tells Him (and all loyall Subjects) by an old Preſident,
+what kinde entertainment He might expect, for he ſaith, that <hi>Ju<g ref="char:EOLhyphen"/>lius
+Caeſar was, in the Capitol, ſtabbed, and murdered by the Senate,
+with no leſſe than twenty three wounds.</hi> Sir, your kinde invitation
+ſhall not be forgotten, &amp; I aſſure you, it is one of moſt the ſignificant
+paſſages and explanations of your Loyaltie in all your whole Books.</p>
+               <p>
+                  <hi>Page 5. That the King hath denuded himſelfe of all Regall Au<g ref="char:EOLhyphen"/>thority;</hi>
+this ſhall paſſe for one of your ſmall Treaſons, wherein
+you ſhew the denuded nakedneſſe of your <hi>Byaſs'd Judgement</hi> and
+conſcience. <hi>page</hi> 3. This liberall Gentleman, proclaimes liberty,
+and plenarily leave to rebell, <hi>He releaſeth all his Majeſties Subjects
+from their Allegiance;</hi> ſurely, thou haſt made a League with Sin,
+Death, and Hell, and they have blinded thee ſo, that thou canſt nei<g ref="char:EOLhyphen"/>ther
+ſee what thou ſayeſt, or underſtand what thou writeſt. Thou
+giveſt the King's Subjects leave to caſt off their Allegiance, and
+they give thee leave to be hanged to requite thy curteſie; but thou
+and thy Members (of Maintenance) muſt and ſhall know that all
+the King's loyall Subjects do underſtand, that the Oathes of Allegi<g ref="char:EOLhyphen"/>ance
+and Supremacy, made to their Soveraigne, is ſuch a tye, and ſe<g ref="char:EOLhyphen"/>curity,
+as it is the onely chain upon earth, except love, to binde the
+conſciences of men, and to hold humane ſociety together; from
+which Oathes though Maſter <hi>Prinne</hi> (with Papall Authority) would
+diſpence withall, yet his Majeſty hath good and faithfull Subjects
+enough, who ſcorne and deride your fooliſh, traiterous diſpen<g ref="char:EOLhyphen"/>ſations,
+and doubt not (by God's aſſiſtance) to mould you and your
+ſeduced Rabble of Rebells into better faſhion.</p>
+               <p>
+                  <hi>Page 13. If the King himſelfe ſhall introduce Forreigne Forces
+and Enemies into his Realme to levy Warre againſt it, or ſhall himſelfe
+become an Enemy to it.</hi> This doubtfull ſuppoſition is ſo idle and tri<g ref="char:EOLhyphen"/>viall,
+that the beſt Anſwer to it is to laugh at it. <hi>page</hi> 14. he talkes
+how King <hi>Henry</hi> the ſecond of <hi>France</hi> was caſually ſlain at a Tour<g ref="char:EOLhyphen"/>nament
+by the Lord <hi>Montgomery,</hi> and then he tells us of Sir <hi>Walter
+Tirrell's</hi> Arrow (glancing againſt a Tree) ſlew King <hi>William</hi> the ſe<g ref="char:EOLhyphen"/>cond
+of <hi>England;</hi> preſently he makes a ſtep into <hi>France</hi> again, and
+brings us word, <hi>that King Charles the firſt, being mad there, was de<g ref="char:EOLhyphen"/>prived
+<pb n="25" facs="tcp:123387:14"/>
+and kept clſoe, and that the deaths and deprivations of theſe
+Kings was then proved to be no Treaſons, becauſe they were done out
+of no malitious intents.</hi> This is Bombaſt to ſtuffe out his big-wombe
+Book, and as neare the matter as <hi>Braſeol</hi> and <hi>Banbury. Page</hi> 17. He
+playes the Huntſman, and <hi>compares the Keeper of a Parke, and the
+Deere in it, to a King and his People.</hi> Suppoſe this Compariſon
+were granted, then you muſt alſo grant, that you have rebelliouſly
+broken down the Parke pale, or wall, ſo that the Deere are ſcatter<g ref="char:EOLhyphen"/>ed
+and divided, the beſt of them (I am ſure the trueſt <hi>Harts</hi>) do
+keep within their bounds, and live under the protection of their
+Keeper, whileſt you have got all the whole Heard of Raſcals a<g ref="char:EOLhyphen"/>mongſt
+you, and much good may do it you with them. In <hi>Page</hi> 22.
+he makes a leape from hence into <hi>Aſia,</hi> and relates ſtrange Newes,
+how <hi>Tamberlane conquered Bajazet, and put him in an ironcage;</hi>
+then you are ſure it was not a <hi>Pillory,</hi> but if a time of Peace were,
+(were it not for depriving the Hangman of his due) I would begge
+thee, and ſhew thee in Fates and Marts, for a Motion, whereby
+thee and I could not chuſe in ſhort time but be without abundance
+of money. From <hi>page</hi> 23. to <hi>page</hi> 60. he tautologically talkes Na<g ref="char:EOLhyphen"/>turall
+Non-ſenſe, and Artificall Impertinencies, which in <hi>page</hi> 60.
+he ſaith, he gathered from one <hi>Albericus Gentilis. page</hi> 61. he
+ſtumbles upon Truth again, and ſayes, <hi>That it is out of controverſie
+that no man ought to reſiſt againſt the King. Page</hi> 63, 64. he cites
+32 Arguments of Scripture to maintain the Cauſe, the chiefe of
+them is <hi>Daniel</hi> in the Lions Den, he might as well have brought in
+<hi>Jacob's Well,</hi> and the Woman of <hi>Samaria.</hi>
+               </p>
+               <p>In <hi>pag.</hi> 66. be brings in the ſtory of <hi>Ioram, 2 Kings 6. how he ſent
+a meſſenger to the Prophet Eliſhaes houſe to take away his head, and
+that the Prophet did cauſe the doore to be ſhut, to keep out the King's
+meſſenger:</hi> from whence the learned logicall <hi>Prinne</hi> inferres, that
+becauſe the Prophet did not obey the King, but ſhut his doore a<g ref="char:EOLhyphen"/>gainſt
+the Meſſenger, therefore King <hi>Charles</hi> his Subiects may op<g ref="char:EOLhyphen"/>poſe,
+reſiſt, and rebell; a very trim Argument. From thence to
+<hi>page</hi> 73. he repeates old fuſty buſineſſe over and over, and there
+he runnes for more luggage headlong into the Red-Sea, and dragges
+<hi>the memory of crowned Pharaoh, <gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> example of God's iudgements
+on that obdurate and impenitent King:</hi> this was ſomewhat to the
+purpoſe, but I cannot perceive where or how. <hi>Page 81. The King
+<pb n="26" facs="tcp:123387:15"/>
+with the Lords and Commons in Parliament, have the whole Realme
+entruſted with them, of which great truſt the King is onely Chiefe and
+Soveraigne:</hi> now I agree with you, Sir, if your writings had been
+all ſuch as this, and your Members and Committees, Votes and Or<g ref="char:EOLhyphen"/>ders,
+correſpondent, then we had had no Rebellion, and your high
+prized Bookes would have been iuſtly valued, to be worth nothing.
+A little after he ſayes, <hi>The King is the ſupreme Member of the
+Parliament,</hi> (thou ill bred Fellow, thou mighteſt have ſaid <hi>HEAD</hi>)
+and <hi>that contrary to the truſt and duty repoſed in Him, through the
+advice of evill Counſellours, wilfully betrayes this truſt, and ſpoiles
+and makes havocke of his People and Kingdomes:</hi> theſe are but the
+old lyes, feares, jealouſies, doubts, ifs and ands, newly revived
+and furbuſhed: as in <hi>page</hi> 86. he hath another, which is, <hi>If the
+King ſhould command us to ſay Maſſe in his Chappell,</hi> to which I
+anſwer, <hi>If the Skie fall, &amp;c.</hi> and the one of thoſe ifs is as poſſible
+as the other. <hi>Page</hi> 108. He muſters up 51 of the ancient Fathers
+to lend him their hands to defend his falſities, wherein he hath
+wreſted and abuſed their integrity ſufficiently, but I obſerve that
+he meddles with neither of the <hi>Gregories,</hi> either the <hi>Great,</hi> or <hi>Na<g ref="char:EOLhyphen"/>zianzen,</hi>
+his policy is not to mention them, becauſe then young
+<hi>Gregory</hi> herhaps may be put in minde of him; for <hi>Prinne</hi> is crafty
+and obſerves the Proverbe, <hi>He muſt have a long Devill, that eates
+with a ſpoone.</hi>
+               </p>
+               <p>
+                  <hi>Page 92. He hath wreſted the ſword out of the hands and cut off
+the heads of all his oppoſite Goliahs.</hi> 'Tis well bragg'd, but if it be
+true, that you have cut off all the heads of your oppoſites, you have
+been bloudily revenged for the loſſe of your eares; I prithee,
+when thou dieſt, bequeath one of thy law-bones to be kept a<g ref="char:EOLhyphen"/>mongſt
+the dreadfull Weapons and Ammunition of the Members
+<hi>Magazine,</hi> it may do ſtrange things amongſt a Crew of <hi>Philiſt<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ms.</hi>
+               </p>
+               <p>
+                  <hi>Pag.</hi> 134. He contradicts himſelfe with Statutes of King <hi>Henry</hi>
+8. <hi>Ed.</hi> 6. and Qu. <hi>Eliz. That words againſt the King (even in prea<g ref="char:EOLhyphen"/>ching)
+are high Treaſon, as well as raiſing Armes:</hi> very right, and
+thoſe Statutes being yet in force, what would become of all
+your reverend railing Pulpit-men? (I will not ſlander them to
+call 'em Preachers) upon my conſcience thy deſtiny and theirs
+would be all one, (if the ſaid Statutes were duely executed) and
+you would all leave your old Trades, and deale in the two rich
+<pb n="27" facs="tcp:123387:15"/>
+commodities of <hi>Hempe</hi> and <hi>Timber,</hi> till your laſt gaſpes. <hi>Pag.</hi> 142.
+he railes at the King again, as if he were hired to it, or that he had
+nothing elſe to do; alſo he be labours the <hi>Cavaliers ex tempore,</hi> by
+the Titles of <hi>Cut-throates,</hi> bloudy, inhumane, and barbarous, with
+other ſuch pretty names, as the Gentleman pleaſes to beſtow upon
+them, for which I hope they will not all die, till ſome of them be
+out of his debt. <hi>Page 143. Christians did not reſist perſecution un<g ref="char:EOLhyphen"/>der
+Pagans, ergo,</hi> Chriſtians muſt not reſiſt Chriſtians, and becauſe
+<hi>Subjects are Chriſtians as well as Kings,</hi> therefore Chriſtian Kings
+muſt not reſiſt Rebells. In his laſt Leafe, he hath waded through
+this weighty Controverſie, and proved that both by Law and Con<g ref="char:EOLhyphen"/>ſcience
+this Rebellion is juſtifiable; and thus the Reader may per<g ref="char:EOLhyphen"/>ceive
+how <hi>Prinnes Judgement</hi> and <hi>Conſcience</hi> is <hi>biaſſed.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Vpon Prinnes fourth Quarter, or part of his Soveraigne
+Power of Parliaments.</head>
+               <p>IN <hi>page</hi> 13. he brings in a meſſe of muſty Preſidents, like the
+mouldy Bread, ragged Cloathes, and clouted Shooes of the <hi>Gibe<g ref="char:EOLhyphen"/>onites,</hi>
+when they deceived <hi>Joſhua; as for allowing or not allowing
+the King's meniall Servants:</hi> 'Tis no doubt but the King ſhould be
+well ſerved if ſuch a Coxcombe as <hi>Prinne</hi> had Authority to chuſe
+his Servants. <hi>Page 15. Parliaments have power above Magna Char<g ref="char:EOLhyphen"/>ta:</hi>
+I believe Parliaments have power if there be cauſe to repeale
+Statutes either in <hi>Magna Charta,</hi> or any other Lawes; but though
+Parliaments have this power, yet I would have Maſter <hi>Prinne</hi> to
+underſtand, that Conventicles and factions Aſſemblies have no ſuch
+Authority, except they ſteale and uſurpe it. <hi>Page</hi> 24. he falls to his
+old vomit, and taxeth his Majeſty with <hi>Engliſh, Iriſh, Scottiſh, French,</hi>
+and <hi>Germane</hi> Papiſts, and that they are whole Armies of them
+maintained by his Majeſty, againſt his good Subjects, (of which you
+are none, therefore you need not feare.) <hi>Page 32. The Parliament
+hath unwillingly taxed and plundered men:</hi> your Votes, Impriſon<g ref="char:EOLhyphen"/>ments,
+Baniſhments, and Robberies committed dayly on the per<g ref="char:EOLhyphen"/>ſons
+and goods of ſuch as were his Majeſties loyalleſt Subiects, (they
+being all firme Proteſtants) and your Mandates and large rewards to
+the Thieves and Plunderers, with your Receits and ſale of the
+<pb n="28" facs="tcp:123387:16"/>
+ſtolne goods, to ſtrangers, <hi>Amster-damnable Iewes,</hi> other forraigners
+and unnaturall Natives, who have either bought the ſaid goods for
+money (with which mony you have maintained this Rebellion) or
+truckd and barterd it for other Commodities, as you have done late<g ref="char:EOLhyphen"/>ly
+with the <hi>Hollanders,</hi> for Butter, Cheeſe, Fiſh, <hi>&amp;c.</hi> by theſe
+Practices of Robbery and Tyranny, it is apparent how unwilling<g ref="char:EOLhyphen"/>ly
+this Thing, called a Parliament, hath, and dayly doth, Tax and
+plunder.</p>
+               <p>In his 33. <hi>Pag.</hi> he ſpeakes truth, <hi>That by the ſame power the
+Parliament had to raiſe an Army without the King, by the ſame po<g ref="char:EOLhyphen"/>wer
+they may raiſe mony to maintaine it,</hi> which is as much as to ſay,
+by the ſame power they had to be Rebells, by the ſame power they
+might Murder, Rob, Plunder, Ranſack and ruinate His Majeſties
+true Leige people, and by the ſame power you have made bold to
+doe the like with all his Majeſties Honours, Mannours, Royal<g ref="char:EOLhyphen"/>ties
+and Revenues; all which you have done by the ſame po<g ref="char:EOLhyphen"/>wer,
+and liberall grants of that bountifull Potentate who offered to
+give all the Kingdomes of the world to our Saviour. <hi>Pag.</hi> 34. He
+taxeth His Majeſty with placing of Popiſh Governours in his Gar<g ref="char:EOLhyphen"/>riſons,
+and ſuch Commanders in his Armies; indeed you are not to
+be blamed much for your being greived at thoſe Governours and
+Commanders, becauſe through God's aſſiſtance by them and their
+good directions, you have been often times greivouſly beaten, and
+queſtionleſſe they are not quite out of your debts (except you
+mend your manners) they are ſuch juſt paymaſters, that they will
+pay you all: alſo every body will not beleive that all are Papiſts
+whom you pleaſe to call ſo.</p>
+               <p>Now I come to the ſurvey of his ample <hi>Appendix;</hi> wherein at
+the firſt, he rakes up <hi>Romes</hi> Foundation, and to ſmall purpoſe, he
+hales <hi>Romulus, Remus, Numa Pompilius,</hi> and all the Heathen Kings,
+and Emperours out of their <hi>
+                     <g ref="char:V">Ʋ</g>rnes</hi> and <hi>Tombes;</hi> then he hath a
+bout with the Eaſt and Weſterne Empires, and all their wicked
+Emperours with their Tragicall ends. In his 11. <hi>Pag.</hi> he blaſphea<g ref="char:EOLhyphen"/>mouſly
+outfaceth S. <hi>Paul,</hi> and his Doctrine both, <hi>Rom.</hi> 13. 1. to 6.
+<hi>That Kings are Subjects, to the higheſt powers,</hi> which higheſt po<g ref="char:EOLhyphen"/>wers
+<hi>Prinne</hi> interpretes to be the people; take heed, though you
+have the peſtilent art to make Law to be no Law, and ſtealing to be
+no theft, yet it is dangerous to pervert or juggle with holy writ.
+<pb n="29" facs="tcp:123387:16"/>
+But why doe I caſt away admonition upon an Atheiſticall railing
+<hi>Rabſhekah,</hi> who hath perverted, wrung, wreſted, conſtrued and miſ-applied
+the Patriarks, Prophets, Apoſtles, yea Chriſt himſelfe. <hi>Pag.</hi>
+12. he preſents the miſeries of the unfortunate and perfidious King.
+<hi>Zedechias, how his children were murdered before his face, his eyes
+put out, and after, how he was carried Priſoner in Chaines to Babylon.
+Alſo he mentions many other deplorable deaths and diſaſters, that
+fell upon divers Kings and Princes.</hi> All which Teſtimonies and
+preſidents are ſo applyed, as nothing elſe but Treaſon and Villany
+can be found in the applications. In the 14. <hi>pag.</hi> he is ſaild into
+<hi>Sparta,</hi> amongſt the Kings of the <hi>Lacedemonians,</hi> and there he makes
+enquirie how many of them have been brought to untimely ends.
+In <hi>pag.</hi> 15. he tells us how <hi>the Sabeans confined their Kings to their
+Pallaces, and uſed to ſtone them if they went out of their bounds with<g ref="char:EOLhyphen"/>out
+leave.</hi> But your Scholars (the Tumultuous Rabble) did in
+Routes and Roguiſh Aſſemblies with cudgells, march with their
+Tatterdmallians againſt <hi>White-Hall</hi> when his Majeſty was there
+laſt.</p>
+               <p>
+                  <hi>Pag.</hi> 18. 19. and ſo to <hi>pag.</hi> 51. He runs through all the Hiſtory
+of <hi>France,</hi> to finde proditorious preſidents, to prove Treaſon to be
+Lawfull in <hi>England. pag.</hi> 51. he makes a skip into <hi>Spaine,</hi> and doth
+as much there. <hi>pag.</hi> 60. he hath found out a Kingdome of <hi>Oreida,</hi>
+and that there many of the Kings were depoſed, or Murdered. <hi>pag.</hi>
+62, and 63. he travells <hi>Aragon</hi> and <hi>Navarre,</hi> and from thence in<g ref="char:EOLhyphen"/>to
+<hi>Caſtile, Portugall, Cordova, Vallencia, Granado, Gallicia. pag.</hi> 80.
+he is got into <hi>Hungaria. pag.</hi> 82. he is in <hi>Bohemia. pag.</hi> 85. you may
+have him in <hi>Poland. pag.</hi> 89. he is making a privy ſearch in <hi>Den<g ref="char:EOLhyphen"/>mark.
+pag.</hi> 98. he forrageth through <hi>Sweden. pag.</hi> 99. he makes a
+ſtep into <hi>Aſſyria, Cyprus, Lombardia, Naples,</hi> and <hi>Venice,</hi> and in the
+100. <hi>pag.</hi> he is come backe into <hi>Scotland,</hi> and there he tarries ra<g ref="char:EOLhyphen"/>king
+up all the Treaſons in that Kingdome, from the raigne of <hi>Fer<g ref="char:EOLhyphen"/>guſius</hi>
+(their firſt King) till theſe mad bad times; which theam he
+followes to the 112. <hi>pag.</hi> Then he poſtes into <hi>Aſia</hi> amongſt the
+Kings of the <hi>Gentiles, Iſrael,</hi> and <hi>Iudah.</hi> He is now in <hi>Perſia,</hi> fea<g ref="char:EOLhyphen"/>ſting
+with <hi>Ahaſuerus;</hi> and preſently you have him in <hi>Babylon,</hi> eat<g ref="char:EOLhyphen"/>ing
+Graſſe (like an Aſſe) with <hi>Nebuchadnezzer,</hi> from whence he
+makes a ſpirt to ſee King <hi>Darius,</hi> and kindely he viſites <hi>Daniel</hi> in
+the Lyons Den. Thus you may perceive how nimble and active
+<pb n="30" facs="tcp:123387:17"/>
+this Gentleman hath been, to play the Kennell-raker in grubling
+in all the naſty common Sewers, and contagious Dung-hills of dam<g ref="char:EOLhyphen"/>nable
+Treaſons, and perfidious Treacheries in all the Kingdomes
+of the World, malitiouſly and purpoſely, to defend, maintaine, and
+countenance this odious Rebellion, now on foot in <hi>England.</hi> And,
+it is to be conceived that he could never have Travelled from Re<g ref="char:EOLhyphen"/>gion
+to Region, and from Realme to Realme, with ſuch Celerity
+and Subitorie quickneſſe, but that he had the helpe of ſome <hi>Me<g ref="char:EOLhyphen"/>phoſtophilus</hi>
+or Familiar, or elſe he bought, begged, or ſtole ſome
+Windes from a <hi>Lapland</hi> Witch; without which aydes from the
+Inſtruments of his Grand Maiſter (<hi>Don Diabolo</hi>) he could never
+have flowne to and fro, to ſo many Territories to fetch miſchiefe
+hither.</p>
+               <p>
+                  <hi>Pag.</hi> 125. He ſaith, <hi>David was made King by Gods Appoint<g ref="char:EOLhyphen"/>ment,
+and the Peoples Election;</hi> I tell thee, (thou <hi>Owleiglaſſe</hi>) if
+thou didſt underſtand what thou ſayeſt, thou wouldeſt ſay ſomewhat
+more underſtandingly to be underſtood; for if thou note, what God
+himſelfe ſaith to <hi>David,</hi> by the Prophet <hi>Nathan, 2. Sam. 12. 7.
+Thus ſaith the Lord God of Iſrael, I anointed thee King over Iſra<g ref="char:EOLhyphen"/>el,
+and I delivered thee out of the hands of Saul;</hi> where is the peoples
+Election here? God ſaith he choſe him from the ſheepfold, to be a
+King, <hi>Pſal.</hi> 78. 71. and ſeeing God did chuſe and anoint <hi>David</hi>
+King, I muſt crave M. <hi>Prinnes</hi> leave, to beleeve the people did it
+not, but it is certaine that <hi>David</hi> was made King by Gods onely
+Aſſignation; and that he that made the Peoples hearts, did alſo give
+them grace with unanimous conſent to be obedient to his Ordi<g ref="char:EOLhyphen"/>nance;
+ſo that with loud ſhoutes, and acclamations of Ioye, the
+people expreſt their Loyalties and loves at <hi>Davids</hi> Coronation, in
+which they had no Election at all, as this pretender pretends. <hi>Pag.</hi>
+127. <hi>That God, and Davids deſignation of Solomon to the Crowne,
+did not take away the Peoples Liberty, Right, and Power to elect and
+nominate their Kings,</hi> my ſweet <hi>Stercucian</hi> prudent <hi>Prinne,</hi> nei<g ref="char:EOLhyphen"/>ther
+<hi>God</hi> or <hi>David</hi> did ever take that Liberty, Right and Power
+from the People, for the people never had any ſuch priviledge or
+prerogative to elect and nominate, and therefore ſuch Right and
+Power which they never had, was never taken from them. <hi>Pag.</hi>
+146. he names <hi>Zimri, Omri,</hi> and other Parricides and Homicides,
+Vſurpers, Rebells and Caſtawayes, theſe he brings in to fill up the
+<pb n="31" facs="tcp:123387:17"/>
+meaſure. <hi>Pag.</hi> 149. is cram'd as full of Treaſons and Revileings, as
+he was able to put in, till he comes to the 153 <hi>pag.</hi> and there he
+tells me old newes, <hi>How Darius ſet Princes over his Kingdomes
+and Provinces;</hi> And <hi>that Nebuchadnezzer, ſet Daniel over the Pro<g ref="char:EOLhyphen"/>vince
+of Babylon;</hi> let the Reader judge if <hi>Prinne</hi> doth not give
+himſelfe the Lie. How dares this Varlet alleadge that King <hi>Charles</hi>
+hath not Power to ſet Deputies and Lievtenants over His Domi<g ref="char:EOLhyphen"/>nions
+and Provinces, or to chuſe His Privy Councellors, Officers
+of State, Truſt, and Meniall Servants, and yet he confeſſeth that two
+Heathen Kings, <hi>Darius</hi> and <hi>Nebuchadnezzar,</hi> had power to doe it,
+and did it, and (for any thing that I can perceive) thoſe Kings had
+power ſo to doe, and did uſe that power without aſking their Sub<g ref="char:EOLhyphen"/>jects
+leave or conſent.</p>
+               <p>From <hi>pag.</hi> 154. to 160. he brings in <hi>Chimeraes,</hi> Whimſeyes
+and meere Connundrums in ſuch ſtore, as they would furniſh ſixe
+<hi>French</hi> and <hi>Italian</hi> Mountebanks to vent their ſophiſticated <hi>Oyles,
+<g ref="char:V">Ʋ</g>nguents, Drugges, Album Greaka,</hi> or black white <hi>Dogges da<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>es;
+Pag.</hi> 177. he ſaies, <hi>that a Prince or Lord of a Country are not Prin<g ref="char:EOLhyphen"/>ces
+without Subjects;</hi> very right, if a King hath no Subjects, then
+he is no bodies King, but you and your Comrades, would have no
+King, and therefore, by that rule you are no Subjects, or (I am ſure
+no good ones.) From <hi>pag.</hi> 177. to 186. he makes a long Relation
+of the cauſes why the Netherlandiſh Provinces fell from the King
+of <hi>Spaine;</hi> as ſuitable to his purpoſe as Muſtard and Mince-pye to<g ref="char:EOLhyphen"/>gether,
+and then he brings in <hi>Julian</hi> the Apoſtate, ſlaine by a Chri<g ref="char:EOLhyphen"/>ſtian
+Souldier; <hi>Pag. 188. That the Pope and Prelates alone, (without
+the conſents of Parliament, Peeres, or People) have depoſed and judg<g ref="char:EOLhyphen"/>ed
+Hereticall and Tyrannicall Kings to death, and devote them to
+Aſſaſſination.</hi> This is but crowding upon the old fidle, becauſe the
+Pope hath done ſo to wicked Kings, therefore you will take a de<g ref="char:EOLhyphen"/>villiſh
+power (ſomewhat worſe then a Popiſh) to ſupplant
+and ruinate a Juſt King and His Poſterity. <hi>Pag.</hi> 189. he preſents
+<hi>Tarquin, Nero, Vitelius,</hi> their baniſhments and deathes. <hi>Pag.</hi> 204.
+That Queen <hi>Elizabeth</hi> did ayde and ſuccour Proteſtants that lived
+in other Countries, and that the King of <hi>Spaine</hi> did the like for <hi>Ro<g ref="char:EOLhyphen"/>mane
+Catholiques;</hi> This is <hi>Prinnes</hi> Foble Boble, as plaine as a Pack<g ref="char:EOLhyphen"/>ſtaffe;
+I wiſh that he and his Tribe would imitate that good Queen,
+and ſuccour the Proteſtants, and not deſtroy and begger them dayly,
+<pb n="30" facs="tcp:123387:18"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="31" facs="tcp:123387:18"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="32" facs="tcp:123387:19"/>
+as they doe. <hi>Pag.</hi> 208. he ſwells and bliſters out his Volum, with
+the ſentence of degradation and deprivation of <hi>Wenceſlaus</hi> the Em<g ref="char:EOLhyphen"/>perour,
+as much pertinent as the fift wheele in a Coach. <hi>Pag.</hi> 216.
+he is vehement in perſwading men to be Loyall Rebells, to be Va<g ref="char:EOLhyphen"/>liant
+true Traitors, to perſiſt in their execrable diſobedience, for
+which he promiſes everlaſting felicity; and laſtly, he peremptorily
+concludes all Temporall and Eternall loſſe, diſhonour, and perpe<g ref="char:EOLhyphen"/>tuall
+torments, to be the Portions of all true Subjects; and then he
+cloſes with zealous Prayer, and Invocation, for the continuance,
+maintenance, and proſperity of Treaſon and Rebellion. And thus
+have I delineated, or rather Anotomiz'd and diſected the foure
+Quarters of this Monſter. Now I proceed to his Head, and the
+workes of his Head-peece, <hi>his Opening of the New Great Seale.</hi>
+               </p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="extract">
+                           <head>William Prinnes, Opening of his New Great
+Seale of ENGLAND.</head>
+                           <p>ADulterate Preſidents, are (very ſeldome) Parents to Legi<g ref="char:EOLhyphen"/>timate
+Conſequences. This New <hi>Great Seale</hi> is Begotten,
+and Borne into the World, lick'd into faſhion by Committees,
+Members, Votes and Ordinances, and Nurſt, Cheriſh'd, Dreſt,
+Trick'd and Trim'd by M. <hi>Prinne,</hi> who hath painfully ſearched
+through the very Bowells of Antiquity to finde out the originall
+of Seales, and whence his <hi>New Seale</hi> may lineally derive its firſt
+being and pedigree.</p>
+                           <p>To begin which goodly piece of ſervice, he loades his Margine
+with Notes and Teſtimonies of Scripture; The firſt marke where<g ref="char:EOLhyphen"/>by
+you may know from whence this Babye is deſcended, he quotes,
+the Signet which <hi>Judah</hi> left with his daughter in Law, <hi>Tamar,</hi> as a
+Pledge when he had committed Inceſt (or Adultery) with her, as it
+is in <hi>Gen.</hi> 38. A very faire beginning, to prove this <hi>Seale</hi> lawfully
+borne and bred from <hi>Judah's</hi> Signet, which was left in pawne as
+a token for Bawderie.</p>
+                           <p>The ſecond deſcent of it he proves to be from <hi>Theft, Covetouſ<g ref="char:EOLhyphen"/>neſſe,</hi>
+and <hi>Murder,</hi> as 1. <hi>Kings,</hi> 21. 8. How <hi>Jezabel ſtole Ahabs
+Seale,</hi> and with it ſealed counterfeit Letters (in the Kings name)
+whereby <hi>Naboth</hi> was perjuriouſly accuſed, and Murthered, and
+<pb n="33" facs="tcp:123387:19"/>
+                              <hi>Ahab</hi> had the Vineyard. And from that <hi>Seale,</hi> and the notable ef<g ref="char:EOLhyphen"/>fects
+which it produced, M. <hi>Prinne</hi> derives his New <hi>Seale,</hi> and
+preſageth what worthy acts it may produce.</p>
+                           <p>I will name but one more of his Marginall Teſtificandums, <hi>Est<g ref="char:EOLhyphen"/>ber.</hi>
+3. and 12. there he mentions King <hi>Ahſuerus</hi> his Ring, which
+he delivered to <hi>Haman,</hi> wherewith he ſealed an Edict, that all the
+whole Nation of the Iewes, young and old, that liv'd in the Kings
+large Dominions (127. Provinces) ſhould all be ſlaughtered in one
+day. But I deſire the Reader to take notice, that though <hi>Haman</hi>
+was a proud ambitious man, yet he did uſe no counterfeit <hi>Seale,</hi>
+nor uſurped any power but what he had from the King; but M.
+<hi>Prinne</hi> and his Maiſters, have neither the Kings <hi>Seale,</hi> leave or
+power, to deſtroy His Subjects, and Ruinate His Kingdome, but I
+would not have them to forget, (and make application too) that
+<hi>Haman</hi> was hanged although his fault was not Treaſon. But this is
+another ſtrong Argument, what ſhall become of the Proteſtants, and
+His Majeſties Loyalleſt Subjects, if M. <hi>Prinnes</hi> new founded <hi>Seale</hi>
+were in force and vigour. And thus, out of his owne Annotations,
+he hath proved his <hi>Seales</hi> originalls, from Adulterous <hi>Inceſt, Thee<g ref="char:EOLhyphen"/>ving,
+Avarice, Murder, Perjury, and Deſtruction;</hi> and what can be
+expected, but the like miſchiefes, and miſeries from this New<g ref="char:EOLhyphen"/>borne,
+Counterfeit, Adulterated Mungrell.</p>
+                           <p>His very Title of <hi>Opening of the Great Seale,</hi> puts me into ſome
+ſuſpition of Blaſphemy in it, as alluding to <hi>the Lambes, opening the
+Seale in the Revelation,</hi> (but I omit that, as too ſerious for this man<g ref="char:EOLhyphen"/>ner
+of Encounter.) And I have ſpyed a Croſſe in his ſecond <hi>page,</hi> to
+begin withall, which makes me ready to crye out Popery, Popery,
+and I thought it would have frighted him out of the Court, but I
+perceive the Devill is Elder, and M. <hi>Prinne</hi> is more impudent then
+the <hi>Legend</hi> tells us, (and I am ſure that <hi>Legend</hi> is as true as moſt of
+<hi>Prinnes</hi> writings are.) The Devill was in Saint <hi>Chriſtophers</hi> dayes,
+for then he ran aſide at the ſight of the Croſſe, for feare of him that
+dyed on it; But now <hi>Prinne</hi> goes on in deſpight of both, (though in<g ref="char:EOLhyphen"/>deed)
+ſomewhat like the Devill, all on one ſide, and tells us a Tale
+of Croſſes, <hi>pag.</hi> 3. and at length of Seales, though it be a long time
+er'e he could find that Engliſh Kings had any, event ill the Raignes
+of <hi>Offa</hi> and <hi>Edwin.</hi> Nor any Broad Seale till <hi>Edward</hi> the Confeſ<g ref="char:EOLhyphen"/>ſor;
+The beſt is, he there by grants, that the Kings grant is good un<g ref="char:EOLhyphen"/>der
+<pb n="34" facs="tcp:123387:20"/>
+his Signe Manuall, or Signet, yea (if need be) under his hand
+without any Seale, (but this I leave to Lawyers.) And when the
+<hi>Broad Seale</hi> came into uſe, it was <hi>the Seale of our Lord the King,</hi>
+or <hi>the Kings Broad Seale,</hi> and the <hi>Chancellors</hi> were called <hi>the Kings
+Chancellors</hi> (not the Peoples, nor the Parliaments) <hi>pag.</hi> 10 and 11.
+that the Kings from time to time ordered, and altered the <hi>Great
+Seale</hi> at their pleaſures, and that King <hi>Richard the firſt, pretending
+that the Great Seale was loſt, when Roger his Vicechancellour was
+drowned before the Iſle of Ciprus, and that the King cauſed a New
+Seale to be made.</hi> All this is granted, but no part of this doth ſay
+that a Parliament made that Seale, ('tis ſaid the King cauſed it to
+be made) beſides, that was not a counterfeit <hi>Seale</hi> made by a Facti<g ref="char:EOLhyphen"/>on,
+without the Kings Conſent, or, which is more, againſt Royall
+Commands and Proclamations, to the contrary. Then he goes on
+honeſtly, that <hi>our Kings have altered their Seales with various In<g ref="char:EOLhyphen"/>ſcriptions,
+Stiles, and Armes,</hi> but alwayes of their owne, and in
+their owne names, never of the Parliaments. (For I thinke their
+Armes and Motto, except it ſhould be <hi>A Beaſt with many Heads,</hi>
+are yet to ſeeke.) Nor was it ever medled with in Parliament, but
+for the Kings behalfe, in the Kings name, by the Kings Authority,
+and according to his will, as even thoſe two Inſtances of <hi>a New
+Broad Seale,</hi> made for <hi>Edward</hi> the firſt, <hi>pag. 18. 19. Whilſt he was
+abſent militating in the Holy Land; And for Henry the ſixth, when
+he was an Infant of nine mouthes old, and his <g ref="char:V">Ʋ</g>nkle the Protector,</hi>
+doe more then manifeſtly convince, directly contrary to what he
+produceth them to prove. Nor were there any proportion or para<g ref="char:EOLhyphen"/>lell
+betwixt an abſent, and a preſent King, betwixt an implicite
+Conſent, and an expreſſe Command to the contrary, betwixt the
+ſtate of a Child, and a Mature experienc'd King; if the intents of
+our Parliaments were as Loyall as thoſe appeared to be, (Whereas
+indeed the contrary is apparent,) but that he preſumes that all his
+<hi>Geeſe</hi> ſhall paſſe for <hi>Swannes,</hi> and that he can perſwade the People
+that the Moone is made of the ſame Calves ſkin, that his new broad
+Seale ſhall be affix'd unto.</p>
+                           <p>Yet the better to ſecure himſelfe, and his Aſſociates, from high
+Treaſons in this point (for they are deepe enough in other mat<g ref="char:EOLhyphen"/>ters)
+I would adviſe them to be contented to make uſe of the other
+Seales, which he ſaith were made by their Authority, (but I muſt
+<pb n="35" facs="tcp:123387:20"/>
+tell him, not without the King) and may be new-made by them<g ref="char:EOLhyphen"/>ſelves,
+<hi>viz.</hi> the <hi>Seale</hi> for <hi>Statutes, Merchants,</hi> in certain Corpora<g ref="char:EOLhyphen"/>tions,
+the <hi>Seale</hi> for the Hundred, Rape, or Wapentake, City, or
+Burrough, left to the diſcretion of the Iuſtices of Peace (if they
+have any) or to the keeping of ſome honeſt good man of the Coun<g ref="char:EOLhyphen"/>ty
+(M. <hi>Pym</hi> was once reputed fit to have been the Keeper of this
+<hi>Seale) p.</hi> 20. this Seale is great enough yet to have the ſtoned Horſe
+carved in it for the bearing, which <hi>Pym's</hi> father bequeathed to <hi>Aguis,</hi>
+or the <hi>Seale</hi> of Alnegers and Collectours, <hi>&amp;c.</hi> or that leaden <hi>Seale</hi>
+for cloathes (which he inſiſts upon as if it were as authentique as
+the <hi>Popes Bull</hi>) or the <hi>Seale</hi> of the Cuſtomers Office (which they
+are well skilled in improving for themſelves, though they rob the
+King of it) and the <hi>ſeales</hi> of cloath of <hi>Gold, Silver, Velvet, Da<g ref="char:EOLhyphen"/>maskes,
+Chamlets, Silkes, Tobacco,</hi> and <hi>Tobacco-pipes,</hi> and of as
+many trinkets as are enumerated in their late Book of Exciſe and
+Rates; and let them take in the Seales of <hi>Yarmouth</hi> and <hi>Linne</hi>-woſted-makers
+to boot; but let them not meddle with the Dut<g ref="char:EOLhyphen"/>chy
+<hi>Seale,</hi> the Exchequer <hi>Seale,</hi> the <hi>Seale</hi> of the Court of Wards and
+Liveries, not the <hi>Seale</hi> of the Augmentation, (which he ſpends ſo
+much waſt paper about, in his <hi>pag. 21, &amp;</hi> 26.) for feare of a <hi>Premu<g ref="char:EOLhyphen"/>nire,</hi>
+eſpecially if they have any cares to loſe, as ſome of them have
+hitherto; but above all, meddle not with the <hi>Great Seale,</hi> it is not
+<hi>Prinnes</hi> Aſſertion, that the Parliament is uncapable of Treaſon,
+and out of the intentions of the Statutes concerning Treaſons of
+that kinde, which can protect you againſt a <hi>Tiburne</hi> Pole-axe, ex<g ref="char:EOLhyphen"/>cept
+you can procure the King's conſent, as a part of the Parlia<g ref="char:EOLhyphen"/>ment,
+as the caſe was in the Times of King <hi>Edward</hi> the firſt, and
+King <hi>Henry</hi> the fixth, (which he repeates again, for no other pur<g ref="char:EOLhyphen"/>poſe
+but to manifeſt how his Noddle is furniſhed with the Art of
+Memory to inſert things over and over to the purpoſe aforeſaid, as
+much as in the totall comes to nothing;) but theſe remembrances
+are of ſmall validity to make way for Maſter <hi>Prinnes</hi> pardon; as
+the whole Parliament was forced for a leſſe Rebellion than this, in
+the time of <hi>Richard</hi> the ſecond. Or unleſſe you be reſolved to
+make good your Speakers promiſe at the beginning of this Parlia<g ref="char:EOLhyphen"/>ment,
+<hi>To make his Majesty the richeſt King in Chriſtendome,</hi> againſt
+your wills, by forfeiting your Eſtates, Lands, and Lives, and having
+let the Kingdome in combuſtion, you fall (like <hi>Phaeton</hi>) for pro<g ref="char:EOLhyphen"/>ſuming
+<pb n="32" facs="tcp:123387:21"/>
+                              <gap reason="duplicate" extent="1 page">
+                                 <desc>〈1 page duplicate〉</desc>
+                              </gap>
+                              <pb n="33" facs="tcp:123387:21"/>
+                              <gap reason="duplicate" extent="1 page">
+                                 <desc>〈1 page duplicate〉</desc>
+                              </gap>
+                              <pb n="32" facs="tcp:123387:22"/>
+                              <gap reason="duplicate" extent="1 page">
+                                 <desc>〈1 page duplicate〉</desc>
+                              </gap>
+                              <pb n="33" facs="tcp:123387:22"/>
+                              <gap reason="duplicate" extent="1 page">
+                                 <desc>〈1 page duplicate〉</desc>
+                              </gap>
+                              <pb n="34" facs="tcp:123387:23"/>
+                              <gap reason="duplicate" extent="1 page">
+                                 <desc>〈1 page duplicate〉</desc>
+                              </gap>
+                              <pb n="35" facs="tcp:123387:23"/>
+                              <gap reason="duplicate" extent="1 page">
+                                 <desc>〈1 page duplicate〉</desc>
+                              </gap>
+                              <pb n="36" facs="tcp:123387:24"/>
+to guide that Chariot whoſe luſtre dazled your eyes, and
+whoſe ſublimity aſtoniſheth, yea confounds your underſtandings:
+<hi>And ſo confounded be all they that exalt themſelves againſt God, and
+against the King. Let their lives be <gap reason="illegible" resp="#OXF" extent="3 letters">
+                                    <desc>•••</desc>
+                                 </gap>bſome, and their deaths He<g ref="char:EOLhyphen"/>rodian
+lowſie and virmiculated, Let their mouthes be ſealed up with
+the ſpeechleſneſſe of their ſelfe guilt. And let their eyes be picked out
+by the Ravens of the valleys, and eaten by the young Eagles. But let
+the King ever rejoyce in the ſtrength of the Lord, and be exceeding
+glad in his ſalvation.</hi> Mat. 22. 12. Prov. 30. 17. Pſal. 21. 1.</p>
+                           <p>Thus have I (with leſſe than <hi>Herculean</hi> labour in ſix dayes) clean<g ref="char:EOLhyphen"/>ſed
+this <hi>Augean</hi> Stable of all the noyſome filth that <hi>Prinne</hi> had raked
+in many weeks, from all the dung-hils in the world, all which <hi>Mer<g ref="char:EOLhyphen"/>dur<gap reason="illegible" resp="#OXF" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>nous
+Mucke</hi> I have laid at the doores of the right Owners, <hi>viz.</hi>
+Maſter <hi>Prinne</hi> and his Members; I have been fain to encounter
+with him in the darke, for his Margins hath been ſo thatched with
+abuſed and wreſted Authours, that as the <hi>Grand Signior</hi> had ſo ma<g ref="char:EOLhyphen"/>ny
+thouſands of Arrowes to ſhower at once upon the Chriſtians,
+that they obſcured the <hi>Sunne,</hi> and darkened the Firmament, yet
+there was roome enough under the ſhadow of thoſe Arrowes to
+fight (in a good Cauſe) and foile the <hi>Turkes;</hi> ſo I, in the <hi>Cymerian</hi>
+umbrage of this Cloud of Teſtimones, have cop'd with him, and
+in the Combate ſo bruiſed him, that three of his ſmall guts are diſ<g ref="char:EOLhyphen"/>located,
+the <hi>Vertigo</hi> taking poſſeſſion of his pulſive Brain-pan, and
+(as I was certified) he takes a Diet next his heart every morning
+five ſpoonfull of warme <hi>Cow-dung</hi> mixed with <hi>Earwigs,</hi> com<g ref="char:EOLhyphen"/>pounded
+<hi>Caterpillers,</hi> and the <hi>Marrow</hi> of a <hi>Salt Bitch,</hi> ſo that there
+is ſome hope that he will recover, but never be his own man again,
+yet he may live longer than a Cat, or a Dogge, or a better thing.</p>
+                           <p>If I had had any correſpondency with him, I could have furniſh<g ref="char:EOLhyphen"/>ed
+him, with Authours, Teſtimonies, Witneſſes, and Proofes more
+ſuitable for his foure Parts, and his Great <hi>Seale</hi> too, as <hi>Laz<gap reason="illegible" resp="#OXF" extent="2 letters">
+                                    <desc>••</desc>
+                                 </gap>ill<gap reason="illegible" resp="#OXF" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap> de
+Tormes, Don Quixot, Guſman de Alfarech, Bevis of Hamp<gap reason="illegible" resp="#OXF" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>on,
+The mirrour of Knighthood, John Dorry,</hi> the ancient <hi>Bards, Drui<g ref="char:EOLhyphen"/>des,
+Peripatetickes, Stoickes, Epicureans,</hi> and <hi>Gymnoſophiſts:</hi> theſe
+learned <hi>Thebanes</hi> would have been ſo ſuitable to his writings, that
+their authentique Aſſertions had like a Torrent over-whelmed me,
+ſo that I had been quite drowned before I could have anſwered
+halfe his <hi>Soveraigne Powers,</hi> and for his Great Seale, <gap reason="illegible" resp="#OXF" extent="1 word">
+                                 <desc>〈◊〉</desc>
+                              </gap> been as
+<pb n="37" facs="tcp:123387:24"/>
+farre from my knowledge, as he and it are from Truth and Reali<g ref="char:EOLhyphen"/>ties.</p>
+                           <p>I <gap reason="illegible" resp="#OXF" extent="1 span">
+                                 <desc>〈…〉</desc>
+                              </gap>
+how to mannage and husband this <hi>New Great Seale,</hi> the cheapeſt
+and thriftieſt way, for as yet it is of ſmall force and leſſe virtue,
+People do begin to perceive <gap reason="illegible" resp="#OXF" extent="1 word">
+                                 <desc>〈◊〉</desc>
+                              </gap> they have been coozened with
+Publique Faith, and large promiſes for great ſummes, which have
+been (and muſt be) paid inviſibly, and now that (by beggerly ex<g ref="char:EOLhyphen"/>perience)
+they ſee how the Game and Geare goes, they are unwil<g ref="char:EOLhyphen"/>ling
+to be <hi>ſealed</hi> for fooles, and pay for the ſealing too. Therefore
+becauſe it is like to proue a dead market with the <hi>New Great Seale,</hi>
+and that wax is deare, I adviſe to ſave that charge, and <hi>ſeale</hi> with
+Butter; I have heard of Obligations <hi>ſealed</hi> ſo in the Welch mar<g ref="char:EOLhyphen"/>ches;
+or if that thrifty device faile, your <hi>Seale</hi> will make an excel<g ref="char:EOLhyphen"/>lent
+mould to make <hi>Wafer Cakes,</hi> or caſt well kneaded <hi>Ginger-<gap reason="illegible" resp="#OXF" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>read</hi>
+in. There are divers other neceſſary uſes which it may be put
+to, which I leave to thy grave and ingenious, ſtudious conſidera<g ref="char:EOLhyphen"/>tion.</p>
+                           <p>How now, my running-witted, tolling-headed, taling tongu'd,
+rattle-brain'd Round-head? How likeſt thou this <hi>ve<gap reason="illegible" resp="#OXF" extent="2 letters">
+                                    <desc>••</desc>
+                                 </gap>ie?</hi> Wilt
+thou have another bows? If thou dareſt but take up the cudgels
+once more, as good as thou thinkeſt thy ſelfe at Defenſive Armes.
+Ile fetch thee about like a <hi>Iack-an-apes,</hi> over and under his Chaine,
+ſo that all the Gentlemen Spectatours, (who ſhall be Iudges) ſhall
+not onely paſſe their ſentence on my ſide, that I have ſufficiently
+dry-baſt<gap reason="illegible" resp="#OXF" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>d thee; but I will let thy humours bloud for the <hi>Sim<g ref="char:EOLhyphen"/>ples</hi>
+in the head-vein and break thy, <hi>Mazz<gap reason="illegible" resp="#OXF" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>rd,</hi> ſo ſoudly, that all
+the world ſhall ſee that thou haſt but a craz'd <hi>Pericranium;</hi> and ſo,
+ſomewhat commiſerating thy diſtracted condition, I in a ſmall de<g ref="char:EOLhyphen"/>gree
+of true charity, leave thy exceſſive imaginary zeale to fare<g ref="char:EOLhyphen"/>well,
+and behang'd. What ſhould any man ſay more to his Friend.</p>
+                           <closer>
+                              <signed>William Prinne.</signed>
+                           </closer>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+            </div>
+            <div type="prophecy">
+               <pb n="38" facs="tcp:123387:25"/>
+               <head>A Prophecy.</head>
+               <p>
+                  <seg rend="decorInit">A</seg> Prophecy concerning the precedent Anſwer, found in a
+Whirle-poole, three Leagues below the bottome of
+the <hi>Ocean,</hi> by a diver, who was ſent thither in theſe
+times of neceſſity for <hi>Pym's</hi> purſe, which becauſe he
+found guarded by <hi>Hampden's</hi> Ghoſt, he could not bring, for that
+had been enough to have redeemed all this Iſle, (except himſelfe)
+but he brought this from a pennon whereon it was hanging, whileſt
+the <hi>Neiades</hi> and <hi>Nereides</hi> were buſied about an <hi>Ephemerides,</hi> for
+perpetuating <hi>Bookers</hi> Almanacke, till <hi>Naworths</hi> honeſt juſt-dealing
+Prognoſtication ſhall make a Comment upon <hi>Haly</hi> by the laſt yeares
+ſucceſſe, and till the Puritan manner of canting <hi>Aſſ-trologers</hi> (like
+that of Scriptures) ſhall appeare out of <hi>Guido Benatus,</hi> wherein
+having told a tale of their troubleſome Army, he leaves out, BUT
+THE KING SHALL PREVAILE IN THE END.
+And railes upon the Licencer, becauſe he put the reſt out, upon diſ<g ref="char:EOLhyphen"/>covery
+of that his jugling, and alſo they ſate in Conſultation about
+proroguing the Confutation (if it could be) of <hi>Prinnes legiſlative
+Soveraigne Power of Parliaments, and opening the New Broad
+Seale,</hi> and divers other ſpeciall pieces of that Minnion and Favourite
+of <hi>Aeolus, Neptune, Proſerpine,</hi> yea and the Grand Signior <hi>Pluto</hi>
+himſelfe, all which have ſpeciall influence into the occurrents of
+theſe Times.</p>
+               <p>In the third yeare of the Grand Seſſion of the infernall <hi>Plebeians</hi>
+ſpirits, and in the ſecond yeare of the <hi>Pigmies</hi> Giant-like warring
+againſt Heaven, when the <hi>Furies</hi> ſhall be in Conjunction, <hi>Beelze<g ref="char:EOLhyphen"/>bub</hi>
+and <hi>Jezabel</hi> in a <hi>Quartile Aspect, Aſmodeus aſcendant, Judas</hi> in
+the ſecond Houſe, <hi>Lucifer culminant,</hi> and <hi>Balaam</hi> Lord of the Aſ<g ref="char:EOLhyphen"/>ſembly,
+the <hi>North Pole</hi> ſhall be tranſlated to <hi>Troynovant,</hi> the Con<g ref="char:EOLhyphen"/>ſtellation
+called <hi>Corona</hi> ſhall be aſſaulted by <hi>Mars,</hi> and great endea<g ref="char:EOLhyphen"/>vour
+ſhall be to draw it beneath the <hi>Moon,</hi> and one <hi>Prinne</hi> (ſon of
+the <hi>Centaures</hi>) mounted to the Spheare of <hi>Mercury,</hi> ſhall perſwade
+<pb n="39" facs="tcp:123387:25"/>
+the middle world (made giddy with lately running round) that all
+is reduced to the Naturall Motion, and the great <hi>Platonique</hi> yeare
+returned: but <hi>Charles Waine</hi> (driving a contrary way) ſhall force
+<hi>Ixions</hi> Wheele to become retrograde, and cauſe a motion of Tre<g ref="char:EOLhyphen"/>pidation
+in all the Circulatours and Roundheads of <hi>Thule,</hi> and the
+greateſt Antick Iſland; and when this ſon of the <hi>Centaure</hi> hath
+lead the World through foure times foure Signes by an <hi>Ignis fatuus</hi>
+more dangerous than that of <hi>Phaeton,</hi> and maintained worſe Para<g ref="char:EOLhyphen"/>doxes
+than <hi>Copernicus,</hi> reaching at <hi>loves</hi> Scepter with the hands of
+<hi>Briareus,</hi> and ſcorning <hi>Iuno</hi> more than <hi>Niobe</hi> did, and ſeemes to reſt
+ſecure, onely laughed at by Logicians, hiſſed at by the Searchers of
+<hi>Clioes</hi> Records, and deſpiſed by the Prieſts of <hi>love,</hi> by reaſon of his
+falſe quotations, diſunderſtandings, miſ-applications, blaſphemy
+againſt God, Treaſons againſt the King, Arguments drawn from ab<g ref="char:EOLhyphen"/>ſurdities,
+generall Concluſions drawn from particular examples,
+and from moſt notable Non-ſenſe, that in the Times and Acts of
+Rebellion, parallelld for the moſt part from, and in the <hi>Nadir</hi> (or
+Altitude) of his Pride, ſhall write with the Rayes of a Comet,
+that he hath copiouſly confuted all Royalliſts, Malignants, Papiſts,
+clamorous Objections, and Primitive Exceptions, againſt the Pro<g ref="char:EOLhyphen"/>ceedings
+of this preſent Parliament, in foure ſeverall Treatiſes,
+lately publiſhed concerning the Soveraigne Power of Parliaments,
+and Kingdomes, which hath given good ſatisfaction to many, and
+ſilenced the Tongues and Pennes of moſt Anti-Parliamenteers,
+who have been ſo ingenious as ſeriouſly to peruſe them; then ſhall
+a holy water Clerke of <hi>Thetis</hi> contract his <hi>Iliades</hi> into a rotten
+nut-ſhell, and inſpired with ability rightly to interpret that old
+Saw of <hi>Rabbi Selimon, Anſwer not a foole according to his folly, (or
+according to his manner) leſt thou alſo be like him.</hi> Aptly apply the
+inverted oppoſite Maxime, <hi>Anſwer a foole according to his folly,
+or according to his deſerving, leaſt he be wiſe in his own conceit:</hi> and
+although <hi>Lilbourne</hi> the Libeller, or a Muſhrom hatched by this
+blazing ſtar in the blacke Night of Sedition, and that ſincere upright
+verſt man <hi>Withers</hi> with the reſt of the Rabble of railing Poets be
+retained in fee by the Rebells to write weekly Lyes for them;
+yet <hi>Tom Naſh</hi> his Ghoſt returning to this <hi>Charon,</hi> with ſome diſtil<g ref="char:EOLhyphen"/>led
+wilde-fire-water in an inke-horne, ſhall provide ſuch a whip
+for this proud Horſe, ſuch a Bridle for this ſenſeleſſe Aſſe, and ſuch
+<pb n="40" facs="tcp:123387:26"/>
+a rod for this mad fooles backe, as ſhall tame <hi>Cerberus,</hi> whoſe Tri<g ref="char:EOLhyphen"/>ple
+head ſounded nothing but the three-ſyllabled and the three-let<g ref="char:EOLhyphen"/>terd
+Lords, and barked againſt the radiant beames of Majeſty, and
+ſhall cauſe the many heads of <hi>Hydra</hi> to be mortified and expire—in
+confuſion, like the Heteroclitall monſtrous Body of Five Mem<g ref="char:EOLhyphen"/>bers,
+ſhrunke into three, and one of them halfe withered too: all
+which ſhall happen before the end of the firſt <hi>Olympiad</hi> of the
+<hi>Lesbian</hi> expedition, and the <hi>Glaſconian</hi> refining of Reformation:
+this is decreed by the three fatall Siſters, confirmed by the three in<g ref="char:EOLhyphen"/>fernall
+Iudges, and entred into the Bookes of the foure times three
+<hi>Sybills,</hi> in the Publique Hall of Contingency, 7000 yeares before
+the imagination of Eternity.</p>
+            </div>
+            <div type="postscript">
+               <head>POSTSCRIPT.</head>
+               <p>I Would not have <hi>Prinne,</hi> or his diſmembred (divided) Maſters
+Memorable Memberhoods, to imagine me ſo ſterill as to be all this
+while pumping to anſwer his Traiterous lying Pamphlets, but let
+him and them know, that this my Booke was written in <hi>October</hi>
+laſt, 1643. when their Saviour <hi>Pym</hi> was alive, (which had he then
+been dead, I had not mentioned) many alterations have happened ſince
+my writing, and the printing part of it before the end of <hi>December</hi>
+laſt, but I being extremely ſtroken lame, and the Preſſe and Printers
+full of worke of greater conſequence than to <hi>curry Crop-ear'd</hi> Iades,
+till now; and as I have formerly handled <hi>Booker,</hi> the Proditorious Pre<g ref="char:EOLhyphen"/>diction-monger,
+and M<hi rend="sup">r</hi> 
+                  <hi>Prinne</hi> the unutterable utter Barreſter, (or
+rather the Kingdomes Common Embarrater) ſo have I alſo written
+Anſwers to the nimble, villanious, quicke, pretty, little witted <hi>Mercu<g ref="char:EOLhyphen"/>rius
+Britanicus,</hi> the <hi>Scottiſh Dove,</hi> (Pigeon or Widgeon) the <hi>Scout,</hi>
+and all the Rabble of lying railing Raſcals and Rebells, all theſe
+things are laid (like rods in piſſe) till I can get them printed: and
+could I but have meanes, and the Preſſe leaſure, I dare undertake
+with my poore Gooſe quill, to ſtop the mouthes or cut the throates of
+all the ſeditious Pulpitteers, and roguiſh Pamphletteers in <hi>England,</hi>
+or elſe I would loſe my labour.</p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
